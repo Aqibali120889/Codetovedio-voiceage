@@ -1,0 +1,14 @@
+{
+  "job_id": "job_4c06dfc1",
+  "request": {
+    "mode": "compare_alternatives",
+    "topic": "Claude Duet app is Anthropic’s bet on agents",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "deep"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-22T21:57:35.644Z"
+}

@@ -1,0 +1,29 @@
+{
+  "job_id": "job_efd17b8f",
+  "project_id": "proj_d6ddf764-1f0d-4fd2-9848-1a86499afa99",
+  "created_at": "2026-10-23T15:54:54.659Z",
+  "updated_at": "2026-10-23T15:54:54.667Z",
+  "status": "running",
+  "current_stage": "loading_research",
+  "completed_stages": [
+    "loading_research"
+  ],
+  "lineage": {},
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T15:54:54.667Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": false,
+    "background_music": true,
+    "target_duration_seconds": 30,
+    "topic": "AI agents are changing how money moves"
+  },
+  "artifacts": {},
+  "warnings": []
+}

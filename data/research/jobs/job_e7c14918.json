@@ -1,0 +1,16 @@
+{
+  "job_id": "job_e7c14918",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "AI Agents in Route Optimization: Real Impact",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_71039056",
+  "started_at": "2026-10-26T18:31:23.243Z",
+  "completed_at": "2026-10-26T18:31:23.400Z",
+  "brief_id": "brief_71039056"
+}

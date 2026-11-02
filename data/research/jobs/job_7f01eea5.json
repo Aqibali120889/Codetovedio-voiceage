@@ -1,0 +1,13 @@
+{
+  "job_id": "job_7f01eea5",
+  "request": {
+    "mode": "trends"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_test_123",
+  "started_at": "2026-10-15T12:05:59.383Z",
+  "completed_at": "2026-10-15T12:05:59.384Z",
+  "brief_id": "brief_test_123"
+}

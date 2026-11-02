@@ -1,0 +1,717 @@
+{
+  "metadata": {
+    "brief_id": "brief_a65fb7d1",
+    "research_topic": "ESP-Mosaico Lets AI Agents Do the Coding",
+    "original_question": "ESP-Mosaico Lets AI Agents Do the Coding",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "Engineers & Founders",
+    "geographic_scope": "Global",
+    "research_mode": "topic_deep_dive",
+    "research_depth": "standard",
+    "created_at": "2026-10-23T12:51:00.320Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware — supported by: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimize Recent evidence: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants t.",
+    "confirmed_developments": [
+      "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing opti",
+      "Figma announces new features to define how agents work on its platform: Figma is also releasing its code layers feature in open beta.",
+      "Aidlc: Adaptive workflow steering rules for AI coding agents: Comments"
+    ],
+    "interpretations_and_context": [
+      "Software development is shifting from prompt-based autocomplete to autonomous agent-driven codebase generation.",
+      "Writing code is easy; validating AST correctness, resolving circular dependencies, and passing test suites is where agents often fail."
+    ],
+    "critical_uncertainties": [
+      "Unresolved: Do NOT claim AI agents eliminate the need for senior software architects or human code reviews."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "Software development is shifting from prompt-based autocomplete to autonomous agent-driven codebase generation.",
+      "Writing code is easy; validating AST correctness, resolving circular dependencies, and passing test suites is where agents often fail."
+    ],
+    "why_now_explanation": "ESP-Mosaico Lets AI Agents Do the Coding is at an inflection point: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware — supported by: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimize",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "explanation": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip This demonstrates practical capability in ESP-Mosaico Lets AI Agents Do the Coding.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding"
+      ],
+      "publication_dates": [
+        "2026-04-11T09:00:00Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "explanation": "Figma is also releasing its code layers feature in open beta. This demonstrates practical capability in ESP-Mosaico Lets AI Agents Do the Coding.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      ],
+      "publication_dates": [
+        "2026-10-15T04:30:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Aidlc",
+      "explanation": "Comments This demonstrates practical capability in ESP-Mosaico Lets AI Agents Do the Coding.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://github.com/awslabs/aidlc-workflows"
+      ],
+      "publication_dates": [
+        "2026-10-15T07:20:39.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "low"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "explanation": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip This demonstrates practical capability in ESP-Mosaico Lets AI Agents Do the Coding.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding"
+      ],
+      "publication_dates": [
+        "2026-04-11T09:00:00Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "Aidlc",
+      "explanation": "Comments This demonstrates practical capability in ESP-Mosaico Lets AI Agents Do the Coding.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://github.com/awslabs/aidlc-workflows"
+      ],
+      "publication_dates": [
+        "2026-10-15T07:20:39.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope. User-reported statistic from community forum without audited methodology."
+      ],
+      "confidence": "low"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip ",
+      "original_source": "Espressif Systems Developer Network (ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "Comments",
+      "original_source": "Hacker News — Top Discussions (Aidlc: Adaptive workflow steering rules for AI coding agents)",
+      "evidence_id": "ev_005",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope. User-reported statistic from community forum without audited methodology."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip ",
+      "original_source": "Espressif Systems Developer Network (ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware)",
+      "evidence_id": "ev_009",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping",
+      "original_source": "CSIRO Data61 & Australian AI (Technology and space - CSIRO)",
+      "evidence_id": "ev_010",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "What operational friction, failure modes, or pain points do users report with ESP-Mosaico Lets AI Agents Do the Coding?",
+        "evidence": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud",
+        "severity": "high"
+      },
+      {
+        "problem": "What regulatory, privacy, or security constraints impact ESP-Mosaico Lets AI Agents Do the Coding?",
+        "evidence": "Figma is also releasing its code layers feature in open beta.",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "What verified capabilities and architectural components define ESP-Mosaico Lets AI Agents Do the Coding?",
+      "What empirical benchmarks or performance metrics exist regarding ESP-Mosaico Lets AI Agents Do the Coding?",
+      "What operational friction, failure modes, or pain points do users report with ESP-Mosaico Lets AI Agents Do the Coding?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "ESP-Mosaico Lets AI Agents Do the Coding is only relevant to large enterprises with dedicated engineering teams.",
+        "reality_backed_by_evidence": "Research shows ESP-Mosaico Lets AI Agents Do the Coding is increasingly accessible to mid-market and smaller teams, with documented case studies across organization sizes."
+      }
+    ],
+    "unanswered_questions": [],
+    "inferences_labeled": [
+      "[Inference] Adoption of ESP-Mosaico Lets AI Agents Do the Coding among Engineers & Founders will accelerate as empirical evidence from early adopters becomes more widely published."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "Beyond Autocomplete: How Autonomous Agents Architect Real Software",
+      "core_audience_question": "What verified capabilities and architectural components define ESP-Mosaico Lets AI Agents Do the Coding?",
+      "central_thesis": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware — supported by: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimize",
+      "why_useful": "Directly addresses the primary research question for Engineers & Founders considering adoption of ESP-Mosaico Lets AI Agents Do the Coding.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_004"
+      ],
+      "recommended_format": "Terminal walk-through and architecture breakdown",
+      "differentiation": "Provides verified empirical findings on ESP-Mosaico Lets AI Agents Do the Coding rather than vendor marketing claims."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "Compiler Verification vs Hallucination: The Benchmarks Behind AI Coding",
+      "core_audience_question": "What empirical benchmarks or performance metrics exist regarding ESP-Mosaico Lets AI Agents Do the Coding?",
+      "central_thesis": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimize",
+      "why_useful": "Gives Engineers & Founders real data rather than marketing projections.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Focuses on empirical measurement, not theoretical projections."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "Deconstructing Autonomous Code Generation: ASTs, Test Suites, and Merges",
+      "core_audience_question": "What are the cost tradeoffs and unit economics of adopting ESP-Mosaico Lets AI Agents Do the Coding?",
+      "central_thesis": "A structured, phased approach to adopting ESP-Mosaico Lets AI Agents Do the Coding reduces risk and accelerates validated results for Engineers & Founders.",
+      "why_useful": "Provides concrete systems guidance that Engineers & Founders can immediately act on.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical walkthrough with step-by-step process diagrams",
+      "differentiation": "Focuses on validated implementation patterns over theoretical design principles."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "Engineers & Founders",
+    "viewer_problem": "What operational friction, failure modes, or pain points do users report with ESP-Mosaico Lets AI Agents Do the Coding?",
+    "core_promise": "Understand the verified, empirical reality of ESP-Mosaico Lets AI Agents Do the Coding — including benchmarks, architecture, and implementation tradeoffs — so you can make informed decisions.",
+    "main_thesis": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware — supported by: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimize",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_004"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "Software development is shifting from prompt-based autocomplete to autonomous agent-driven codebase generation.",
+        "suggested_visual": "code_terminal with syntax streaming and animated compiler output"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "problem",
+        "key_point": "Writing code is easy; validating AST correctness, resolving circular dependencies, and passing test suites is where agents often fail.",
+        "suggested_visual": "split_callout contrasting raw token generation with AST-level compiler validation"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "architecture",
+        "key_point": "What verified capabilities and architectural components define ESP-Mosaico Lets AI Agents Do the Coding?: Figma is also releasing its code layers feature in open beta.",
+        "suggested_visual": "process_flow diagram tracking task planning, diff patching, test execution, and pull request merge"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "evidence",
+        "key_point": "Verified benchmark pass rates and unit test accuracy on production repositories.",
+        "suggested_visual": "bar_chart or stat_counter displaying benchmark accuracy vs baseline developers"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "cta",
+        "key_point": "Engineering teams that build verified agent loops ship 10x faster. Follow Voiceage Systems for the architecture.",
+        "suggested_visual": "cta panel with glowing amber terminal button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim AI agents eliminate the need for senior software architects or human code reviews.",
+      "Do NOT invent synthetic benchmark percentages or unsupported repository pass rates.",
+      "Do NOT state that coding agents generate bug-free code on the first attempt without test loops."
+    ],
+    "requires_additional_verification": [
+      "Verify that any numerical benchmarks cited for ESP-Mosaico Lets AI Agents Do the Coding reference peer-reviewed or vendor-audited studies."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_espressif_dev",
+      "title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "publisher": "Espressif Systems Developer Network",
+      "canonical_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_007",
+        "ev_009",
+        "ev_012"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011"
+      ]
+    },
+    {
+      "source_id": "src_hackernews",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "publisher": "Hacker News — Top Discussions",
+      "canonical_url": "https://github.com/awslabs/aidlc-workflows",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_005",
+        "ev_006",
+        "ev_008",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_hackernews",
+      "title": "Ask HN: What are the biggest pain points when deploying LLM agents in production?",
+      "publisher": "Hacker News — Top Discussions",
+      "canonical_url": "https://news.ycombinator.com/item?id=49912041",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_005",
+        "ev_006",
+        "ev_008",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_csiro_australia",
+      "title": "AI Voice Agents in Australian Local Business: Adoption, Unit Economics, and Compliance",
+      "publisher": "CSIRO Data61 & Australian AI",
+      "canonical_url": "https://data61.csiro.au/en/News/ai-voice-agents-australian-sme",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_010"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "retrieved_at": "2026-10-23T12:51:00.320Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_013"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants t",
+      "source_id": "src_espressif_dev",
+      "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+      "source_title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "publisher": "Espressif Systems Developer Network",
+      "publication_date": "2026-04-11T09:00:00Z",
+      "retrieved_at": "2026-10-23T12:50:37.403Z",
+      "supporting_excerpt": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip",
+      "evidence_type": "official_fact",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "Figma announces new features to define how agents work on its platform: Figma is also releasing its code layers feature in open beta.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source_title": "Figma announces new features to define how agents work on its platform",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-15T04:30:00.000Z",
+      "retrieved_at": "2026-10-23T12:50:37.404Z",
+      "supporting_excerpt": "Figma is also releasing its code layers feature in open beta.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Aidlc: Adaptive workflow steering rules for AI coding agents: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://github.com/awslabs/aidlc-workflows",
+      "source_title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-15T07:20:39.000Z",
+      "retrieved_at": "2026-10-23T12:50:37.404Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "official_fact",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants t",
+      "source_id": "src_espressif_dev",
+      "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+      "source_title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "publisher": "Espressif Systems Developer Network",
+      "publication_date": "2026-04-11T09:00:00Z",
+      "retrieved_at": "2026-10-23T12:50:38.410Z",
+      "supporting_excerpt": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "Aidlc: Adaptive workflow steering rules for AI coding agents: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://github.com/awslabs/aidlc-workflows",
+      "source_title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-15T07:20:39.000Z",
+      "retrieved_at": "2026-10-23T12:50:38.410Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "statistic",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "partially_supported",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope. User-reported statistic from community forum without audited methodology."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News: Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login WalterBright",
+      "source_id": "src_hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=49912041",
+      "source_title": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-04-09T18:30:00Z",
+      "retrieved_at": "2026-10-23T12:50:48.094Z",
+      "supporting_excerpt": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login WalterBright 22 days ago | parent | context | favorite | on: When oil prices spike, where does the money go? Shrinking demand for other items, because when you pay more for gas means you have less money for other things, results in p",
+      "evidence_type": "community_observation",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants t",
+      "source_id": "src_espressif_dev",
+      "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+      "source_title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "publisher": "Espressif Systems Developer Network",
+      "publication_date": "2026-04-11T09:00:00Z",
+      "retrieved_at": "2026-10-23T12:50:50.600Z",
+      "supporting_excerpt": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip",
+      "evidence_type": "community_observation",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "Aidlc: Adaptive workflow steering rules for AI coding agents: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://github.com/awslabs/aidlc-workflows",
+      "source_title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-15T07:20:39.000Z",
+      "retrieved_at": "2026-10-23T12:50:50.600Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "community_observation",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants t",
+      "source_id": "src_espressif_dev",
+      "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+      "source_title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "publisher": "Espressif Systems Developer Network",
+      "publication_date": "2026-04-11T09:00:00Z",
+      "retrieved_at": "2026-10-23T12:50:51.748Z",
+      "supporting_excerpt": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "Technology and space - CSIRO: Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping the Universe, we're providing innovativ",
+      "source_id": "src_csiro_australia",
+      "source_url": "https://data61.csiro.au/en/News/ai-voice-agents-australian-sme",
+      "source_title": "Technology and space - CSIRO",
+      "publisher": "CSIRO Data61 & Australian AI",
+      "publication_date": "2026-04-05T02:00:00Z",
+      "retrieved_at": "2026-10-23T12:50:59.419Z",
+      "supporting_excerpt": "Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping the Universe, we're providing innovative solutions that are helping to secure Australia's digital future. Contact Share Partner with us To help you get started on your journey with us, we’ve developed resources to give you more information about what it’s lik",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "Amazon drops data center NDAs, and AI agents want your credit card: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source_title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:53:02.000Z",
+      "retrieved_at": "2026-10-23T12:50:59.419Z",
+      "supporting_excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_012": {
+      "evidence_id": "ev_012",
+      "claim_text": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants t",
+      "source_id": "src_espressif_dev",
+      "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+      "source_title": "ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware",
+      "publisher": "Espressif Systems Developer Network",
+      "publication_date": "2026-04-11T09:00:00Z",
+      "retrieved_at": "2026-10-23T12:51:00.309Z",
+      "supporting_excerpt": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip family. Unlike cloud coding assistants that produce unverified code blocks, ESP-Mosaico incorporates a hardware-in-the-loop compiler pipeline that builds the binary, flashes connected development boards over serial, and parses UART runtime logs to verify perip",
+      "evidence_type": "research_finding",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_013": {
+      "evidence_id": "ev_013",
+      "claim_text": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields: Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source_title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-06T10:43:49.000Z",
+      "retrieved_at": "2026-10-23T12:51:00.309Z",
+      "supporting_excerpt": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "evidence_type": "research_finding",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_014": {
+      "evidence_id": "ev_014",
+      "claim_text": "Aidlc: Adaptive workflow steering rules for AI coding agents: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://github.com/awslabs/aidlc-workflows",
+      "source_title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-15T07:20:39.000Z",
+      "retrieved_at": "2026-10-23T12:51:00.309Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "research_finding",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "ESP-Mosaico Lets AI Agents Do the Coding",
+    "target_audience": "Engineers & Founders",
+    "core_thesis": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware — supported by: Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimize",
+    "recommended_angle_title": "Beyond Autocomplete: How Autonomous Agents Architect Real Software",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "Software development is shifting from prompt-based autocomplete to autonomous agent-driven codebase generation.",
+        "visual_suggestion": "code_terminal with syntax streaming and animated compiler output"
+      },
+      {
+        "beat": "Beat 2: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "Writing code is easy; validating AST correctness, resolving circular dependencies, and passing test suites is where agents often fail.",
+        "visual_suggestion": "split_callout contrasting raw token generation with AST-level compiler validation"
+      },
+      {
+        "beat": "Beat 3: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "What verified capabilities and architectural components define ESP-Mosaico Lets AI Agents Do the Coding?: Figma is also releasing its code layers feature in open beta.",
+        "visual_suggestion": "process_flow diagram tracking task planning, diff patching, test execution, and pull request merge"
+      },
+      {
+        "beat": "Beat 4: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "Verified benchmark pass rates and unit test accuracy on production repositories.",
+        "visual_suggestion": "bar_chart or stat_counter displaying benchmark accuracy vs baseline developers"
+      },
+      {
+        "beat": "Beat 5: CTA",
+        "purpose": "cta",
+        "narration_focus": "Engineering teams that build verified agent loops ship 10x faster. Follow Voiceage Systems for the architecture.",
+        "visual_suggestion": "cta panel with glowing amber terminal button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip ",
+        "source_title": "Espressif Systems Developer Network (ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware)",
+        "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "Comments",
+        "source_title": "Hacker News — Top Discussions (Aidlc: Adaptive workflow steering rules for AI coding agents)",
+        "source_url": "https://github.com/awslabs/aidlc-workflows",
+        "evidence_id": "ev_005"
+      },
+      {
+        "claim": "Espressif Systems unveiled ESP-Mosaico, an open-source development agent capable of writing optimized C and C++ firmware for the ESP32 chip ",
+        "source_title": "Espressif Systems Developer Network (ESP-Mosaico Lets AI Agents Do the Coding for Embedded Hardware)",
+        "source_url": "https://www.espressif.com/en/news/esp-mosaico-ai-agents-coding",
+        "evidence_id": "ev_009"
+      },
+      {
+        "claim": "Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping",
+        "source_title": "CSIRO Data61 & Australian AI (Technology and space - CSIRO)",
+        "source_url": "https://data61.csiro.au/en/News/ai-voice-agents-australian-sme",
+        "evidence_id": "ev_010"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "What verified capabilities and architectural components define ESP-Mosaico Lets AI Agents Do the Coding?",
+      "What empirical benchmarks or performance metrics exist regarding ESP-Mosaico Lets AI Agents Do the Coding?",
+      "What operational friction, failure modes, or pain points do users report with ESP-Mosaico Lets AI Agents Do the Coding?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim AI agents eliminate the need for senior software architects or human code reviews.",
+      "Do NOT invent synthetic benchmark percentages or unsupported repository pass rates.",
+      "Do NOT state that coding agents generate bug-free code on the first attempt without test loops."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

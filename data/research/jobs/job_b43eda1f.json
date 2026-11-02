@@ -1,0 +1,16 @@
+{
+  "job_id": "job_b43eda1f",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "AI Agents Gain Authority Faster Than Organizations Can Audit Them",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_5cb1ab2f",
+  "started_at": "2026-10-23T13:20:53.437Z",
+  "completed_at": "2026-10-23T13:21:03.348Z",
+  "brief_id": "brief_5cb1ab2f"
+}

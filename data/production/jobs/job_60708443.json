@@ -1,0 +1,115 @@
+{
+  "job_id": "job_60708443",
+  "project_id": "proj_317b69f7-1aa0-4333-a14b-adf390ce7c12",
+  "created_at": "2026-10-23T16:08:20.143Z",
+  "updated_at": "2026-10-23T16:13:02.686Z",
+  "status": "completed",
+  "current_stage": "completed",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video",
+    "validating_render",
+    "completed"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_151b7840",
+    "script_id": "script_28b3db04",
+    "storyboard_id": "sb_31315763",
+    "scene_plan_id": "The Real-World Impact of Cognitive surrender: Artificial intelligence’s threat to democracy: What the Evidence Shows",
+    "render_id": "final.mp4"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T16:08:20.152Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T16:08:20.162Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T16:08:20.169Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T16:08:20.172Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T16:08:20.179Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T16:08:20.190Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T16:08:20.211Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T16:08:20.219Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-23T16:08:26.348Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-23T16:08:26.349Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-23T16:08:26.353Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-23T16:08:27.365Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-23T16:08:27.376Z"
+    },
+    "validating_render": {
+      "stage": "validating_render",
+      "completed_at": "2026-10-23T16:12:58.241Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyberpunk_dark",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_151b7840"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\subtitles\\captions.vtt",
+    "render_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\render\\final.mp4",
+    "quality_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_317b69f7-1aa0-4333-a14b-adf390ce7c12\\render\\quality_report.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_002 claim \"claim_002_1\" violates constraint: \"Do NOT claim Cognitive surrender: Artificial intelligence’s threat to democracy eliminates all human oversight requirements.\"; Scene scene_003 claim \"claim_003_1\" violates constraint: \"Do NOT claim Cognitive surrender: Artificial intelligence’s threat to democracy eliminates all human oversight requirements.\"; Scene scene_004 claim \"claim_004_1\" violates constraint: \"Do NOT claim Cognitive surrender: Artificial intelligence’s threat to democracy eliminates all human oversight requirements.\"",
+    "Diversity: Scene sequence matches recent generation \"job_7167cb4c\". Diversity penalty applied."
+  ]
+}

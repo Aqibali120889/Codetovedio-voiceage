@@ -1,0 +1,77 @@
+{
+  "job_id": "job_56767b70",
+  "project_id": "proj_a17d0635-b70b-4c0f-b226-d0471732f871",
+  "created_at": "2026-10-23T09:29:26.393Z",
+  "updated_at": "2026-10-23T09:32:56.358Z",
+  "status": "running",
+  "current_stage": "generating_narration",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_fcadc104",
+    "script_id": "script_5b3caa9a",
+    "storyboard_id": "sb_3f826e40",
+    "scene_plan_id": "The Real-World Impact of I Built a 3D Office Where Local AI Agents Share One RTX 4090: What the Evidence Shows"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T09:29:26.396Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T09:29:26.403Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T09:30:21.420Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T09:30:21.423Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T09:30:58.458Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T09:32:18.467Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T09:32:56.352Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T09:32:56.358Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyberpunk_dark",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_fcadc104"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_a17d0635-b70b-4c0f-b226-d0471732f871\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_a17d0635-b70b-4c0f-b226-d0471732f871\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_a17d0635-b70b-4c0f-b226-d0471732f871\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_a17d0635-b70b-4c0f-b226-d0471732f871\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_a17d0635-b70b-4c0f-b226-d0471732f871\\blueprint.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_001 claim \"claim_001_1\" violates constraint: \"Do NOT claim I Built a 3D Office Where Local AI Agents Share One RTX 4090 eliminates all human oversight requirements.\"; Scene scene_003 claim \"claim_003_1\" violates constraint: \"Do NOT claim I Built a 3D Office Where Local AI Agents Share One RTX 4090 eliminates all human oversight requirements.\"; Scene scene_004 claim \"claim_004_1\" violates constraint: \"Do NOT claim I Built a 3D Office Where Local AI Agents Share One RTX 4090 eliminates all human oversight requirements.\"",
+    "Diversity: Scene sequence matches recent generation \"job_b2c78e87\". Diversity penalty applied."
+  ]
+}

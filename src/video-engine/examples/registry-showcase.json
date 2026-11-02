@@ -1,0 +1,101 @@
+{
+  "title": "Scene Renderer Registry Showcase",
+  "topic": "Autonomous Video Generation with Remotion",
+  "audience": "Engineers and Creative Technologists",
+  "platform": "YouTube Shorts",
+  "aspect_ratio": "9:16",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "target_duration_seconds": 30,
+  "theme_preset": "cyber_editorial",
+  "brand": {
+    "primary_color": "#0A0A0C",
+    "accent_color": "#FF5F00",
+    "font_token": "heading"
+  },
+  "scenes": [
+    {
+      "id": "scene_001",
+      "purpose": "hook",
+      "scene_type": "kinetic_typography",
+      "narration": "Programmatic video rendering changes everything.",
+      "on_screen_text": "PROGRAMMATIC VIDEO ARCHITECTURE",
+      "visual_description": "Kinetic typography slamming into place with laser scans.",
+      "duration_hint_seconds": 5,
+      "accent_color": "#FF5F00"
+    },
+    {
+      "id": "scene_002",
+      "purpose": "metric",
+      "scene_type": "stat_counter",
+      "narration": "Video generation latency drops from hours to twelve seconds.",
+      "on_screen_text": "99.5% FASTER WORKFLOWS",
+      "duration_hint_seconds": 5,
+      "accent_color": "#0EA5E9",
+      "data_points": [
+        { "label": "Manual Video Editing", "value": 180, "change": "Legacy", "status": "bad" },
+        { "label": "Remotion Registry Engine", "value": 12, "change": "-93.3%", "status": "good" }
+      ]
+    },
+    {
+      "id": "scene_003",
+      "purpose": "insight",
+      "scene_type": "bar_chart",
+      "narration": "Compare processing speeds across different content pipelines.",
+      "on_screen_text": "PIPELINE THROUGHPUT BENCHMARK",
+      "duration_hint_seconds": 5,
+      "accent_color": "#00C853",
+      "chart": {
+        "type": "bar",
+        "title": "Render Latency (seconds)",
+        "unit": "s",
+        "is_illustrative": true,
+        "points": [
+          { "label": "Traditional After Effects", "value": 300, "status": "bad" },
+          { "label": "Cloud Video API", "value": 75, "status": "neutral" },
+          { "label": "Voiceage Registry Engine", "value": 14, "status": "good" }
+        ]
+      }
+    },
+    {
+      "id": "scene_004",
+      "purpose": "architecture",
+      "scene_type": "system_architecture",
+      "narration": "LLM Director passes structured blueprints to the Scene Registry.",
+      "on_screen_text": "ZERO-DRIFT SYSTEM ARCHITECTURE",
+      "duration_hint_seconds": 5,
+      "accent_color": "#A855F7",
+      "nodes": [
+        { "label": "LLM Video Director", "detail": "Emits validated JSON blueprint", "status": "done" },
+        { "label": "Scene Renderer Registry", "detail": "Maps typed schemas to Remotion", "status": "active" },
+        { "label": "Headless Remotion Core", "detail": "Renders broadcast MP4 stream", "status": "queued" }
+      ]
+    },
+    {
+      "id": "scene_005",
+      "purpose": "demo",
+      "scene_type": "code_terminal",
+      "narration": "Deterministic CLI commands execute with complete predictability.",
+      "on_screen_text": "DETERMINISTIC CLI STREAM",
+      "duration_hint_seconds": 5,
+      "accent_color": "#00C853",
+      "terminal_lines": [
+        "voiceage render --blueprint showcase.json",
+        "[VALIDATE] Blueprint passes 100% Zod contract",
+        "[DISPATCH] Registering 6 scene sequences...",
+        "[RENDER] Frame 1800/1800 encoded @ 60 FPS",
+        "[200 OK] Broadcast MP4 ready in 22.4s"
+      ]
+    },
+    {
+      "id": "scene_006",
+      "purpose": "cta",
+      "scene_type": "cta",
+      "narration": "Build autonomous video pipelines with Voiceage Systems.",
+      "on_screen_text": "SHIP AUTONOMOUS CONTENT",
+      "duration_hint_seconds": 5,
+      "accent_color": "#FF5F00"
+    }
+  ]
+}

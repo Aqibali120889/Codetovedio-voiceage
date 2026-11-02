@@ -1,0 +1,783 @@
+{
+  "metadata": {
+    "brief_id": "brief_bf68e772",
+    "research_topic": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
+    "original_question": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "geographic_scope": "Global",
+    "research_mode": "topic_deep_dive",
+    "research_depth": "standard",
+    "created_at": "2026-10-23T18:30:38.006Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as Recent evidence: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work..",
+    "confirmed_developments": [
+      "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from genera",
+      "We can’t help treating AI like it’s human. But should we?: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it c",
+      "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence: Most companies use AI agents to ship products faster or speed up workflow"
+    ],
+    "interpretations_and_context": [
+      "Here are the top AI agents that can live in your text messages: We created a list of the most notabl",
+      "Understanding the structural shift: how Mark Cuban says AI hack agents are like cockroaches, but can be controlled impacts system design and production workflows."
+    ],
+    "critical_uncertainties": [
+      "Unresolved: Do NOT claim Mark Cuban says AI hack agents are like cockroaches, but can be controlled eliminates all human oversight requirements."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "Here are the top AI agents that can live in your text messages: We created a list of the most notabl",
+      "Understanding the structural shift: how Mark Cuban says AI hack agents are like cockroaches, but can be controlled impacts system design and production workflows."
+    ],
+    "why_now_explanation": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled is at an inflection point: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "explanation": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. This demonstrates practical capability in Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      ],
+      "publication_dates": [
+        "2026-10-10T14:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "explanation": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\" This demonstrates practical capability in Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+      ],
+      "publication_dates": [
+        "2026-10-09T16:40:14.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "explanation": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed. This demonstrates practical capability in Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+      ],
+      "publication_dates": [
+        "2026-10-14T18:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "explanation": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. This demonstrates practical capability in Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      ],
+      "publication_dates": [
+        "2026-10-10T14:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "explanation": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\" This demonstrates practical capability in Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+      ],
+      "publication_dates": [
+        "2026-10-09T16:40:14.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+      "original_source": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes.",
+      "original_source": "TechCrunch AI (We can’t help treating AI like it’s human. But should we?)",
+      "evidence_id": "ev_005",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "original_source": "TechCrunch AI (Apate sends AI agents undercover to get scammed so they can gather fraud intelligence)",
+      "evidence_id": "ev_006",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+      "original_source": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+      "evidence_id": "ev_010",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "What operational friction, failure modes, or pain points do users report with Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+        "evidence": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "severity": "high"
+      },
+      {
+        "problem": "What regulatory, privacy, or security constraints impact Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+        "evidence": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired t",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "What verified capabilities and architectural components define Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "What empirical benchmarks or performance metrics exist regarding Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "What operational friction, failure modes, or pain points do users report with Mark Cuban says AI hack agents are like cockroaches, but can be controlled?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled is only relevant to large enterprises with dedicated engineering teams.",
+        "reality_backed_by_evidence": "Research shows Mark Cuban says AI hack agents are like cockroaches, but can be controlled is increasingly accessible to mid-market and smaller teams, with documented case studies across organization sizes."
+      }
+    ],
+    "unanswered_questions": [],
+    "inferences_labeled": [
+      "[Inference] Adoption of Mark Cuban says AI hack agents are like cockroaches, but can be controlled among engineering leaders, software architects, and founders will accelerate as empirical evidence from early adopters becomes more widely published."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "The Real-World Impact of Mark Cuban says AI hack agents are like cockroaches, but can be controlled: What the Evidence Shows",
+      "core_audience_question": "What verified capabilities and architectural components define Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "central_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+      "why_useful": "Directly addresses the primary research question for engineering leaders, software architects, and founders considering adoption of Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_004"
+      ],
+      "recommended_format": "9:16 vertical motion-graphics breakdown with architecture diagrams",
+      "differentiation": "Provides verified empirical findings on Mark Cuban says AI hack agents are like cockroaches, but can be controlled rather than vendor marketing claims."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled: Benchmarks, Metrics, and Measured Performance",
+      "core_audience_question": "What empirical benchmarks or performance metrics exist regarding Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "central_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general as",
+      "why_useful": "Gives engineering leaders, software architects, and founders real data rather than marketing projections.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Focuses on empirical measurement, not theoretical projections."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled: Architecture & Engineering Implementation",
+      "core_audience_question": "What are the cost tradeoffs and unit economics of adopting Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "central_thesis": "A structured, phased approach to adopting Mark Cuban says AI hack agents are like cockroaches, but can be controlled reduces risk and accelerates validated results for engineering leaders, software architects, and founders.",
+      "why_useful": "Provides concrete systems guidance that engineering leaders, software architects, and founders can immediately act on.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical walkthrough with step-by-step process diagrams",
+      "differentiation": "Focuses on validated implementation patterns over theoretical design principles."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "engineering leaders, software architects, and founders",
+    "viewer_problem": "What operational friction, failure modes, or pain points do users report with Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+    "core_promise": "Understand the verified, empirical reality of Mark Cuban says AI hack agents are like cockroaches, but can be controlled — including benchmarks, architecture, and implementation tradeoffs — so you can make informed decisions.",
+    "main_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_004"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "Here are the top AI agents that can live in your text messages: We created a list of the most notabl",
+        "suggested_visual": "document_reveal or parallax_hero with dynamic accent colors and punchy entry animation"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "context",
+        "key_point": "Understanding the structural shift: how Mark Cuban says AI hack agents are like cockroaches, but can be controlled impacts system design and production workflows.",
+        "suggested_visual": "word_by_word kinetic framing of the core thesis"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "problem",
+        "key_point": "What operational friction, failure modes, or pain points do users report with Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+        "suggested_visual": "split_callout or comparison_grid showing operational reality vs marketing claims"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "architecture",
+        "key_point": "What verified capabilities and architectural components define Mark Cuban says AI hack agents are like cockroaches, but can be controlled?: \"When we are drawn into even the most primitive exchanges with a relational arti",
+        "suggested_visual": "system_architecture diagram with labeled nodes and animated data flow"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "mechanism",
+        "key_point": "The complete operational pipeline: event ingestion, algorithmic evaluation, policy enforcement, and verified execution.",
+        "suggested_visual": "process_flow illustrating step-by-step production execution"
+      },
+      {
+        "beat_number": 6,
+        "purpose": "evidence",
+        "key_point": "Measured production results and verified benchmark data on Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+        "suggested_visual": "comparison_grid animating verified benchmark data"
+      },
+      {
+        "beat_number": 7,
+        "purpose": "limitations",
+        "key_point": "Unresolved questions and operational trade-offs that practitioners must navigate prior to deployment.",
+        "suggested_visual": "quote_insight with verified source quotation and architectural caveat"
+      },
+      {
+        "beat_number": 8,
+        "purpose": "cta",
+        "key_point": "Practical engineering insights on Mark Cuban says AI hack agents are like cockroaches, but can be controlled. Follow Voiceage Systems for daily breakdowns.",
+        "suggested_visual": "cta panel with glowing call-to-action button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim Mark Cuban says AI hack agents are like cockroaches, but can be controlled eliminates all human oversight requirements.",
+      "Do NOT assert specific performance figures without citing a verified evidence ID.",
+      "Do NOT recommend adoption of Mark Cuban says AI hack agents are like cockroaches, but can be controlled without noting applicable operational constraints."
+    ],
+    "requires_additional_verification": [
+      "Verify that any numerical benchmarks cited for Mark Cuban says AI hack agents are like cockroaches, but can be controlled reference peer-reviewed or vendor-audited studies."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "retrieved_at": "2026-10-23T18:30:38.006Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_004",
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "ev_014",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "retrieved_at": "2026-10-23T18:30:38.006Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_004",
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "ev_014",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "retrieved_at": "2026-10-23T18:30:38.006Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_004",
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "ev_014",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_hackernews",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "publisher": "Hacker News — Top Discussions",
+      "canonical_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "retrieved_at": "2026-10-23T18:30:38.006Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_009"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "retrieved_at": "2026-10-23T18:30:38.006Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_004",
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "ev_014",
+        "ev_015"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.902Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "We can’t help treating AI like it’s human. But should we?: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in ret",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source_title": "We can’t help treating AI like it’s human. But should we?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:40:14.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.903Z",
+      "supporting_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence: Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source_title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-14T18:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.903Z",
+      "supporting_excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.921Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "We can’t help treating AI like it’s human. But should we?: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in ret",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source_title": "We can’t help treating AI like it’s human. But should we?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:40:14.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.922Z",
+      "supporting_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence: Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source_title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-14T18:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.922Z",
+      "supporting_excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.936Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "We can’t help treating AI like it’s human. But should we?: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in ret",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source_title": "We can’t help treating AI like it’s human. But should we?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:40:14.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.936Z",
+      "supporting_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "Containment and monitoring failures are to blame for AI hacking reports: experts: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source_title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-14T17:45:23.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.937Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "community_observation",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.947Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "We can’t help treating AI like it’s human. But should we?: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in ret",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source_title": "We can’t help treating AI like it’s human. But should we?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:40:14.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.947Z",
+      "supporting_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_012": {
+      "evidence_id": "ev_012",
+      "claim_text": "Amazon drops data center NDAs, and AI agents want your credit card: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source_title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:53:02.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.947Z",
+      "supporting_excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_013": {
+      "evidence_id": "ev_013",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.965Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_014": {
+      "evidence_id": "ev_014",
+      "claim_text": "We can’t help treating AI like it’s human. But should we?: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in ret",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source_title": "We can’t help treating AI like it’s human. But should we?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:40:14.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.967Z",
+      "supporting_excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_015": {
+      "evidence_id": "ev_015",
+      "claim_text": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence: Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source_title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-14T18:00:00.000Z",
+      "retrieved_at": "2026-10-23T18:30:37.967Z",
+      "supporting_excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "core_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+    "recommended_angle_title": "The Real-World Impact of Mark Cuban says AI hack agents are like cockroaches, but can be controlled: What the Evidence Shows",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "Here are the top AI agents that can live in your text messages: We created a list of the most notabl",
+        "visual_suggestion": "document_reveal or parallax_hero with dynamic accent colors and punchy entry animation"
+      },
+      {
+        "beat": "Beat 2: CONTEXT",
+        "purpose": "context",
+        "narration_focus": "Understanding the structural shift: how Mark Cuban says AI hack agents are like cockroaches, but can be controlled impacts system design and production workflows.",
+        "visual_suggestion": "word_by_word kinetic framing of the core thesis"
+      },
+      {
+        "beat": "Beat 3: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "What operational friction, failure modes, or pain points do users report with Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+        "visual_suggestion": "split_callout or comparison_grid showing operational reality vs marketing claims"
+      },
+      {
+        "beat": "Beat 4: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "What verified capabilities and architectural components define Mark Cuban says AI hack agents are like cockroaches, but can be controlled?: \"When we are drawn into even the most primitive exchanges with a relational arti",
+        "visual_suggestion": "system_architecture diagram with labeled nodes and animated data flow"
+      },
+      {
+        "beat": "Beat 5: MECHANISM",
+        "purpose": "mechanism",
+        "narration_focus": "The complete operational pipeline: event ingestion, algorithmic evaluation, policy enforcement, and verified execution.",
+        "visual_suggestion": "process_flow illustrating step-by-step production execution"
+      },
+      {
+        "beat": "Beat 6: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "Measured production results and verified benchmark data on Mark Cuban says AI hack agents are like cockroaches, but can be controlled.",
+        "visual_suggestion": "comparison_grid animating verified benchmark data"
+      },
+      {
+        "beat": "Beat 7: LIMITATIONS",
+        "purpose": "limitations",
+        "narration_focus": "Unresolved questions and operational trade-offs that practitioners must navigate prior to deployment.",
+        "visual_suggestion": "quote_insight with verified source quotation and architectural caveat"
+      },
+      {
+        "beat": "Beat 8: CTA",
+        "purpose": "cta",
+        "narration_focus": "Practical engineering insights on Mark Cuban says AI hack agents are like cockroaches, but can be controlled. Follow Voiceage Systems for daily breakdowns.",
+        "visual_suggestion": "cta panel with glowing call-to-action button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+        "source_title": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+        "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes.",
+        "source_title": "TechCrunch AI (We can’t help treating AI like it’s human. But should we?)",
+        "source_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+        "evidence_id": "ev_005"
+      },
+      {
+        "claim": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+        "source_title": "TechCrunch AI (Apate sends AI agents undercover to get scammed so they can gather fraud intelligence)",
+        "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+        "evidence_id": "ev_006"
+      },
+      {
+        "claim": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+        "source_title": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+        "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "evidence_id": "ev_010"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "What verified capabilities and architectural components define Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "What empirical benchmarks or performance metrics exist regarding Mark Cuban says AI hack agents are like cockroaches, but can be controlled?",
+      "What operational friction, failure modes, or pain points do users report with Mark Cuban says AI hack agents are like cockroaches, but can be controlled?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim Mark Cuban says AI hack agents are like cockroaches, but can be controlled eliminates all human oversight requirements.",
+      "Do NOT assert specific performance figures without citing a verified evidence ID.",
+      "Do NOT recommend adoption of Mark Cuban says AI hack agents are like cockroaches, but can be controlled without noting applicable operational constraints."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

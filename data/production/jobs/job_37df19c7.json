@@ -1,0 +1,115 @@
+{
+  "job_id": "job_37df19c7",
+  "project_id": "proj_8a775218-04e6-458a-8e41-0463587a9ef5",
+  "created_at": "2026-10-23T13:21:44.857Z",
+  "updated_at": "2026-10-23T13:30:51.149Z",
+  "status": "completed",
+  "current_stage": "completed",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video",
+    "validating_render",
+    "completed"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_5cb1ab2f",
+    "script_id": "script_ce5edaf6",
+    "storyboard_id": "sb_19602d84",
+    "scene_plan_id": "The Real-World Impact of AI Agents Gain Authority Faster Than Organizations Can Audit Them: What the Evidence Shows",
+    "render_id": "final.mp4"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T13:21:44.868Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T13:21:44.894Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T13:21:44.913Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T13:21:44.925Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T13:21:44.953Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T13:21:44.990Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T13:21:45.063Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T13:21:45.093Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-23T13:21:45.943Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-23T13:21:45.947Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-23T13:21:45.955Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-23T13:21:46.883Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-23T13:21:46.891Z"
+    },
+    "validating_render": {
+      "stage": "validating_render",
+      "completed_at": "2026-10-23T13:30:43.104Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyberpunk_dark",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_5cb1ab2f"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\subtitles\\captions.vtt",
+    "render_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\render\\final.mp4",
+    "quality_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_8a775218-04e6-458a-8e41-0463587a9ef5\\render\\quality_report.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_002 claim \"claim_002_1\" violates constraint: \"Do NOT claim AI Agents Gain Authority Faster Than Organizations Can Audit Them eliminates all human oversight requirements.\"; Scene scene_003 claim \"claim_003_1\" violates constraint: \"Do NOT claim AI Agents Gain Authority Faster Than Organizations Can Audit Them eliminates all human oversight requirements.\"; Scene scene_004 claim \"claim_004_1\" violates constraint: \"Do NOT claim AI Agents Gain Authority Faster Than Organizations Can Audit Them eliminates all human oversight requirements.\"",
+    "Diversity: Scene sequence matches recent generation \"job_8c37d626\". Diversity penalty applied."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "job_id": "job_c0a6d469",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Nvidia Commits $250M Compute Power to UK Autonomous AI Safety",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "deep"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-15T11:28:50.235Z"
+}

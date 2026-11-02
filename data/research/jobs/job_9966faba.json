@@ -1,0 +1,16 @@
+{
+  "job_id": "job_9966faba",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "US Banks Blocking AI Agents: 5 Lenders Act [2026]",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_d9fb3647",
+  "started_at": "2026-10-23T07:12:37.567Z",
+  "completed_at": "2026-10-23T07:12:54.257Z",
+  "brief_id": "brief_d9fb3647"
+}

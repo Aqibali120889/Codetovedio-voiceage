@@ -1,0 +1,96 @@
+{
+  "job_id": "job_4d83e984",
+  "project_id": "proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588",
+  "created_at": "2026-10-15T11:33:34.384Z",
+  "updated_at": "2026-10-15T11:40:02.398Z",
+  "status": "failed",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_a7cc483d",
+    "script_id": "script_67b4231f",
+    "scene_plan_id": "Nvidia Commits $250M Compute Power to UK Autonomous AI Safety"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-15T11:33:34.394Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-15T11:33:34.418Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-15T11:34:04.436Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-15T11:34:04.439Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-15T11:34:15.376Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-15T11:34:15.404Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-15T11:34:52.215Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-15T11:34:52.226Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-15T11:34:52.238Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-15T11:34:52.247Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-15T11:34:52.256Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyberpunk_dark",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_a7cc483d"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\script.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b48e710c-86a2-41e0-92f1-ff4cc17d1588\\subtitles\\captions.vtt"
+  },
+  "warnings": [],
+  "error": {
+    "stage": "rendering_video",
+    "message": "Remotion render failed with exit code 1.\nremotion-audio-mixing\\1.wav.\u001b[39m\r\n\u001b[31mError opening output files: No such file or directory\u001b[39m\n\u001b[31m    at makeError (D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\node_modules\\execa\\lib\\error.js:60:11)\u001b[39m\n\u001b[31m    at handlePromise (D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\node_modules\\execa\\index.js:118:26)\u001b[39m\n\u001b[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\u001b[39m\n\u001b[31m    at async preprocessAudioTrackUnlimited (D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\node_modules\\@remotion\\renderer\\dist\\preprocess-audio-track.js:73:5)\u001b[39m\n",
+    "timestamp": "2026-10-15T11:40:02.398Z",
+    "recoverable": true
+  }
+}

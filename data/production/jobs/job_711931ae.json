@@ -1,0 +1,51 @@
+{
+  "job_id": "job_711931ae",
+  "project_id": "proj_253bde07-458f-4c9b-bcb9-948822913c02",
+  "created_at": "2026-10-23T12:20:09.720Z",
+  "updated_at": "2026-10-23T12:21:49.920Z",
+  "status": "running",
+  "current_stage": "validating_editorial",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_25577d98",
+    "script_id": "script_9e10a24c"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T12:20:09.723Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T12:20:54.870Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T12:21:49.909Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T12:21:49.913Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": false,
+    "background_music": false,
+    "target_duration_seconds": 30,
+    "topic": "Axios Live: AI agents are changing how money moves"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_253bde07-458f-4c9b-bcb9-948822913c02\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_253bde07-458f-4c9b-bcb9-948822913c02\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_253bde07-458f-4c9b-bcb9-948822913c02\\editorial_report.json"
+  },
+  "warnings": []
+}

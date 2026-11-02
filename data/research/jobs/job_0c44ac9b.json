@@ -1,0 +1,14 @@
+{
+  "job_id": "job_0c44ac9b",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Cognitive surrender: Artificial intelligence’s threat to democracy",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-23T16:06:57.332Z"
+}

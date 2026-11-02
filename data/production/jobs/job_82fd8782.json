@@ -1,0 +1,60 @@
+{
+  "job_id": "job_82fd8782",
+  "project_id": "proj_49eb1427-5c33-44e7-adfb-95576670750b",
+  "created_at": "2026-10-28T18:41:14.597Z",
+  "updated_at": "2026-10-28T18:41:59.750Z",
+  "status": "failed",
+  "current_stage": "validating_editorial",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_9c6ef5b4",
+    "script_id": "script_a283b7e8"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-28T18:41:14.606Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-28T18:41:59.728Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-28T18:41:59.734Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-28T18:41:59.736Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": true,
+    "background_music": true,
+    "target_duration_seconds": 30,
+    "resume": false,
+    "topic": "Quantum Computing: Superconducting Transmons and Cryogenic Phase Coherence"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_49eb1427-5c33-44e7-adfb-95576670750b\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_49eb1427-5c33-44e7-adfb-95576670750b\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_49eb1427-5c33-44e7-adfb-95576670750b\\editorial_report.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_007 claim \"claim_007_1\" violates constraint: \"Do NOT invent synthetic numerical statistics, percentages, or pass rates absent from verified evidence.\""
+  ],
+  "error": {
+    "stage": "validating_editorial",
+    "message": "Editorial Consistency Gate rejected script:\nVIOLATION OF RESEARCH CONSTRAINT: Script narration contains prohibited assertion: \"Do NOT invent synthetic numerical statistics, percentages, or pass rates absent from verified evidence.\"",
+    "timestamp": "2026-10-28T18:41:59.750Z",
+    "recoverable": true
+  }
+}

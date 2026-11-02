@@ -1,0 +1,14 @@
+{
+  "job_id": "job_5f0af06f",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-23T18:30:37.873Z"
+}

@@ -1,0 +1,94 @@
+{
+  "job_id": "job_e375744d",
+  "project_id": "proj_b4462e3b-aff4-484b-94b8-34798e51298f",
+  "created_at": "2026-10-23T17:54:20.454Z",
+  "updated_at": "2026-10-23T17:54:45.455Z",
+  "status": "running",
+  "current_stage": "preparing_visual_assets",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_c8770913",
+    "script_id": "script_ae89416b",
+    "storyboard_id": "sb_b6ebfc0f",
+    "scene_plan_id": "Why AI Agents Are Replacing Static Dashboards"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T17:54:20.457Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T17:54:20.464Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T17:54:20.470Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T17:54:20.472Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T17:54:20.479Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T17:54:20.495Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T17:54:20.514Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T17:54:20.535Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-23T17:54:45.450Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-23T17:54:45.452Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-23T17:54:45.455Z"
+    }
+  },
+  "config": {
+    "skip_render": true,
+    "force_deterministic": true,
+    "force_mock_audio": true,
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "target_duration_seconds": 25,
+    "brief_id": "brief_c8770913"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b4462e3b-aff4-484b-94b8-34798e51298f\\subtitles\\captions.vtt"
+  },
+  "warnings": []
+}

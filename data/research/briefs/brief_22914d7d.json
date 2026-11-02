@@ -1,0 +1,650 @@
+{
+  "metadata": {
+    "brief_id": "brief_22914d7d",
+    "research_topic": "AI agents are changing how money moves",
+    "original_question": "AI agents are changing how money moves",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "Engineers & Founders",
+    "geographic_scope": "Global",
+    "research_mode": "topic_deep_dive",
+    "research_depth": "standard",
+    "created_at": "2026-10-23T15:43:01.731Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re — supported by: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agen Recent evidence: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital .",
+    "confirmed_developments": [
+      "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic prot",
+      "Figma announces new features to define how agents work on its platform: Figma is also releasing its code layers feature in open beta.",
+      "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic prot"
+    ],
+    "interpretations_and_context": [
+      "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+      "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions."
+    ],
+    "critical_uncertainties": [
+      "Unresolved: Do NOT assert specific percentage profit gains or cost savings absent from verified evidence."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+      "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions."
+    ],
+    "why_now_explanation": "AI agents are changing how money moves is at an inflection point: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re — supported by: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agen",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "Axios Live",
+      "explanation": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi This demonstrates practical capability in AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://www.axios.com/events/ai-agents-money-moves-2026"
+      ],
+      "publication_dates": [
+        "2026-04-12T14:00:00Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "explanation": "Figma is also releasing its code layers feature in open beta. This demonstrates practical capability in AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      ],
+      "publication_dates": [
+        "2026-10-15T04:30:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Axios Live",
+      "explanation": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi This demonstrates practical capability in AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://www.axios.com/events/ai-agents-money-moves-2026"
+      ],
+      "publication_dates": [
+        "2026-04-12T14:00:00Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "Axios Live",
+      "explanation": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi This demonstrates practical capability in AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://www.axios.com/events/ai-agents-money-moves-2026"
+      ],
+      "publication_dates": [
+        "2026-04-12T14:00:00Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hack",
+      "explanation": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login WalterBright 22 days ago | parent | context | favorite | on: When oil prices spike, where does the money go? Shrinking demand for other items, because when you pay more for gas means you have less money for other things, results in p This demonstrates practical capability in AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://news.ycombinator.com/item?id=49912041"
+      ],
+      "publication_dates": [
+        "2026-04-09T18:30:00Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "low"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+      "original_source": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+      "evidence_id": "ev_001",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+      "original_source": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+      "evidence_id": "ev_003",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+      "original_source": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+      "original_source": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+      "evidence_id": "ev_007",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "What operational friction, failure modes, or pain points do users report with AI agents are changing how money moves?",
+        "evidence": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe ",
+        "severity": "high"
+      },
+      {
+        "problem": "What regulatory, privacy, or security constraints impact AI agents are changing how money moves?",
+        "evidence": "Figma is also releasing its code layers feature in open beta.",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "What verified capabilities and architectural components define AI agents are changing how money moves?",
+      "What empirical benchmarks or performance metrics exist regarding AI agents are changing how money moves?",
+      "What operational friction, failure modes, or pain points do users report with AI agents are changing how money moves?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "AI agents are changing how money moves is only relevant to large enterprises with dedicated engineering teams.",
+        "reality_backed_by_evidence": "Research shows AI agents are changing how money moves is increasingly accessible to mid-market and smaller teams, with documented case studies across organization sizes."
+      }
+    ],
+    "unanswered_questions": [],
+    "inferences_labeled": [
+      "[Inference] Adoption of AI agents are changing how money moves among Engineers & Founders will accelerate as empirical evidence from early adopters becomes more widely published."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "Autonomous Clearance: How AI Agents Are Rewiring Financial Rails",
+      "core_audience_question": "What verified capabilities and architectural components define AI agents are changing how money moves?",
+      "central_thesis": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re — supported by: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agen",
+      "why_useful": "Directly addresses the primary research question for Engineers & Founders considering adoption of AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_003"
+      ],
+      "recommended_format": "9:16 vertical motion-graphics breakdown with architecture diagrams",
+      "differentiation": "Provides verified empirical findings on AI agents are changing how money moves rather than vendor marketing claims."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "From Settlement Windows to Milliseconds: The Unit Economics of AI Money Movement",
+      "core_audience_question": "What empirical benchmarks or performance metrics exist regarding AI agents are changing how money moves?",
+      "central_thesis": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agen",
+      "why_useful": "Gives Engineers & Founders real data rather than marketing projections.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Focuses on empirical measurement, not theoretical projections."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "Under the Hood: How Financial Agents Route Capital Deterministically",
+      "core_audience_question": "What are the cost tradeoffs and unit economics of adopting AI agents are changing how money moves?",
+      "central_thesis": "A structured, phased approach to adopting AI agents are changing how money moves reduces risk and accelerates validated results for Engineers & Founders.",
+      "why_useful": "Provides concrete systems guidance that Engineers & Founders can immediately act on.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical walkthrough with step-by-step process diagrams",
+      "differentiation": "Focuses on validated implementation patterns over theoretical design principles."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "Engineers & Founders",
+    "viewer_problem": "What operational friction, failure modes, or pain points do users report with AI agents are changing how money moves?",
+    "core_promise": "Understand the verified, empirical reality of AI agents are changing how money moves — including benchmarks, architecture, and implementation tradeoffs — so you can make informed decisions.",
+    "main_thesis": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re — supported by: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agen",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_003"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+        "suggested_visual": "document_reveal or editorial_montage showing high-velocity capital routing"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "problem",
+        "key_point": "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions.",
+        "suggested_visual": "split_callout comparing legacy batch settlement against real-time agent execution"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "architecture",
+        "key_point": "What verified capabilities and architectural components define AI agents are changing how money moves?: Figma is also releasing its code layers feature in open beta.",
+        "suggested_visual": "system_architecture diagram illustrating transaction verification and ledger synchronization"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "evidence",
+        "key_point": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re",
+        "suggested_visual": "stat_counter or infographic_grid animating verified transaction metrics"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "cta",
+        "key_point": "The future of capital movement is instant and verifiable. Follow Voiceage Systems for deeper coverage.",
+        "suggested_visual": "cta panel with glowing emerald call-to-action button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT assert specific percentage profit gains or cost savings absent from verified evidence.",
+      "Do NOT claim autonomous agents replace regulatory compliance oversight or banking licenses.",
+      "Do NOT guarantee zero-risk settlement or infinite liquidity."
+    ],
+    "requires_additional_verification": [
+      "Verify that any numerical benchmarks cited for AI agents are changing how money moves reference peer-reviewed or vendor-audited studies."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_axios_fintech",
+      "title": "Axios Live: AI agents are changing how money moves",
+      "publisher": "Axios Live — Fintech Summit",
+      "canonical_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+      "retrieved_at": "2026-10-23T15:43:01.731Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_004",
+        "ev_007",
+        "ev_010"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "retrieved_at": "2026-10-23T15:43:01.731Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002"
+      ]
+    },
+    {
+      "source_id": "src_hackernews",
+      "title": "Ask HN: What are the biggest pain points when deploying LLM agents in production?",
+      "publisher": "Hacker News — Top Discussions",
+      "canonical_url": "https://news.ycombinator.com/item?id=49912041",
+      "retrieved_at": "2026-10-23T15:43:01.731Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_005",
+        "ev_006"
+      ]
+    },
+    {
+      "source_id": "src_hackernews",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "publisher": "Hacker News — Top Discussions",
+      "canonical_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "retrieved_at": "2026-10-23T15:43:01.731Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_005",
+        "ev_006"
+      ]
+    },
+    {
+      "source_id": "src_csiro_australia",
+      "title": "AI Voice Agents in Australian Local Business: Adoption, Unit Economics, and Compliance",
+      "publisher": "CSIRO Data61 & Australian AI",
+      "canonical_url": "https://data61.csiro.au/en/News/ai-voice-agents-australian-sme",
+      "retrieved_at": "2026-10-23T15:43:01.731Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011"
+      ]
+    },
+    {
+      "source_id": "src_ars_technica",
+      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "publisher": "Ars Technica — AI & Software",
+      "canonical_url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "retrieved_at": "2026-10-23T15:43:01.731Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_009"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital",
+      "source_id": "src_axios_fintech",
+      "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+      "source_title": "Axios Live: AI agents are changing how money moves",
+      "publisher": "Axios Live — Fintech Summit",
+      "publication_date": "2026-04-12T14:00:00Z",
+      "retrieved_at": "2026-10-23T15:42:53.347Z",
+      "supporting_excerpt": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi",
+      "evidence_type": "official_fact",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "Figma announces new features to define how agents work on its platform: Figma is also releasing its code layers feature in open beta.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source_title": "Figma announces new features to define how agents work on its platform",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-15T04:30:00.000Z",
+      "retrieved_at": "2026-10-23T15:42:53.347Z",
+      "supporting_excerpt": "Figma is also releasing its code layers feature in open beta.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital",
+      "source_id": "src_axios_fintech",
+      "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+      "source_title": "Axios Live: AI agents are changing how money moves",
+      "publisher": "Axios Live — Fintech Summit",
+      "publication_date": "2026-04-12T14:00:00Z",
+      "retrieved_at": "2026-10-23T15:42:53.487Z",
+      "supporting_excerpt": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital",
+      "source_id": "src_axios_fintech",
+      "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+      "source_title": "Axios Live: AI agents are changing how money moves",
+      "publisher": "Axios Live — Fintech Summit",
+      "publication_date": "2026-04-12T14:00:00Z",
+      "retrieved_at": "2026-10-23T15:42:53.616Z",
+      "supporting_excerpt": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi",
+      "evidence_type": "community_observation",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News: Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login WalterBright",
+      "source_id": "src_hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=49912041",
+      "source_title": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-04-09T18:30:00Z",
+      "retrieved_at": "2026-10-23T15:42:54.678Z",
+      "supporting_excerpt": "Shrinking demand for other items, because when you pay more for gas means you ha... | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login WalterBright 22 days ago | parent | context | favorite | on: When oil prices spike, where does the money go? Shrinking demand for other items, because when you pay more for gas means you have less money for other things, results in p",
+      "evidence_type": "community_observation",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "Containment and monitoring failures are to blame for AI hacking reports: experts: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source_title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-14T17:45:23.000Z",
+      "retrieved_at": "2026-10-23T15:42:54.678Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "community_observation",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital",
+      "source_id": "src_axios_fintech",
+      "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+      "source_title": "Axios Live: AI agents are changing how money moves",
+      "publisher": "Axios Live — Fintech Summit",
+      "publication_date": "2026-04-12T14:00:00Z",
+      "retrieved_at": "2026-10-23T15:42:54.811Z",
+      "supporting_excerpt": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "Technology and space - CSIRO: Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping the Universe, we're providing innovativ",
+      "source_id": "src_csiro_australia",
+      "source_url": "https://data61.csiro.au/en/News/ai-voice-agents-australian-sme",
+      "source_title": "Technology and space - CSIRO",
+      "publisher": "CSIRO Data61 & Australian AI",
+      "publication_date": "2026-04-05T02:00:00Z",
+      "retrieved_at": "2026-10-23T15:43:00.284Z",
+      "supporting_excerpt": "Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping the Universe, we're providing innovative solutions that are helping to secure Australia's digital future. Contact Share Partner with us To help you get started on your journey with us, we’ve developed resources to give you more information about what it’s lik",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "Could United Launch Alliance's money problems finally force its owners to sell?: ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "source_title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-09-11T11:00:44.000Z",
+      "retrieved_at": "2026-10-23T15:43:00.284Z",
+      "supporting_excerpt": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "Axios Live: AI agents are changing how money moves: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital",
+      "source_id": "src_axios_fintech",
+      "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+      "source_title": "Axios Live: AI agents are changing how money moves",
+      "publisher": "Axios Live — Fintech Summit",
+      "publication_date": "2026-04-12T14:00:00Z",
+      "retrieved_at": "2026-10-23T15:43:00.425Z",
+      "supporting_excerpt": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-processed banking. Stripe and leading digital networks showed autonomous agents routing liquidity across multiple domestic payment rails in sub-second intervals, cutting settlement idle cash by 42%. Regulatory compliance panels emphasized that agents must operate wi",
+      "evidence_type": "research_finding",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "Technology and space - CSIRO: Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping the Universe, we're providing innovativ",
+      "source_id": "src_csiro_australia",
+      "source_url": "https://data61.csiro.au/en/News/ai-voice-agents-australian-sme",
+      "source_title": "Technology and space - CSIRO",
+      "publisher": "CSIRO Data61 & Australian AI",
+      "publication_date": "2026-04-05T02:00:00Z",
+      "retrieved_at": "2026-10-23T15:43:01.723Z",
+      "supporting_excerpt": "Technology and space - CSIRO Blog icon Technology and space From smartphone apps and robotics, to satellites, sensors and telescopes mapping the Universe, we're providing innovative solutions that are helping to secure Australia's digital future. Contact Share Partner with us To help you get started on your journey with us, we’ve developed resources to give you more information about what it’s lik",
+      "evidence_type": "research_finding",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "AI agents are changing how money moves",
+    "target_audience": "Engineers & Founders",
+    "core_thesis": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re — supported by: At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agen",
+    "recommended_angle_title": "Autonomous Clearance: How AI Agents Are Rewiring Financial Rails",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+        "visual_suggestion": "document_reveal or editorial_montage showing high-velocity capital routing"
+      },
+      {
+        "beat": "Beat 2: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions.",
+        "visual_suggestion": "split_callout comparing legacy batch settlement against real-time agent execution"
+      },
+      {
+        "beat": "Beat 3: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "What verified capabilities and architectural components define AI agents are changing how money moves?: Figma is also releasing its code layers feature in open beta.",
+        "visual_suggestion": "system_architecture diagram illustrating transaction verification and ledger synchronization"
+      },
+      {
+        "beat": "Beat 4: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are re",
+        "visual_suggestion": "stat_counter or infographic_grid animating verified transaction metrics"
+      },
+      {
+        "beat": "Beat 5: CTA",
+        "purpose": "cta",
+        "narration_focus": "The future of capital movement is instant and verifiable. Follow Voiceage Systems for deeper coverage.",
+        "visual_suggestion": "cta panel with glowing emerald call-to-action button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+        "source_title": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+        "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+        "evidence_id": "ev_001"
+      },
+      {
+        "claim": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+        "source_title": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+        "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+        "evidence_id": "ev_003"
+      },
+      {
+        "claim": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+        "source_title": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+        "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "At Axios Live, financial technology architects and corporate treasurers detailed how autonomous agentic protocols are replacing batch-proces",
+        "source_title": "Axios Live — Fintech Summit (Axios Live: AI agents are changing how money moves)",
+        "source_url": "https://www.axios.com/events/ai-agents-money-moves-2026",
+        "evidence_id": "ev_007"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "What verified capabilities and architectural components define AI agents are changing how money moves?",
+      "What empirical benchmarks or performance metrics exist regarding AI agents are changing how money moves?",
+      "What operational friction, failure modes, or pain points do users report with AI agents are changing how money moves?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT assert specific percentage profit gains or cost savings absent from verified evidence.",
+      "Do NOT claim autonomous agents replace regulatory compliance oversight or banking licenses.",
+      "Do NOT guarantee zero-risk settlement or infinite liquidity."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

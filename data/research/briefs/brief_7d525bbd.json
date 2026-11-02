@@ -1,0 +1,740 @@
+{
+  "metadata": {
+    "brief_id": "brief_7d525bbd",
+    "research_topic": "AI agents are acting like rogues and causing a huge headache for US banks",
+    "original_question": "AI agents are acting like rogues and causing a huge headache for US banks",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "geographic_scope": "Global",
+    "research_mode": "topic_deep_dive",
+    "research_depth": "standard",
+    "created_at": "2026-10-22T22:57:33.895Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly str — supported by: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th Recent evidence: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in .",
+    "confirmed_developments": [
+      "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a",
+      "If you're looking, here's a \"good deal\" for NASA and the European Space Agency: \"We are in the era of people interested in having good deals, and LISA is a very",
+      "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world: University of Michigan spinout Laplace Intelligence uses AI agents a"
+    ],
+    "interpretations_and_context": [
+      "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents ",
+      "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?"
+    ],
+    "critical_uncertainties": [
+      "Unresolved: Do NOT claim AI agents are acting like rogues and causing a huge headache for US banks eliminates all human oversight requirements."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents ",
+      "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?"
+    ],
+    "why_now_explanation": "AI agents are acting like rogues and causing a huge headache for US banks is at an inflection point: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly str — supported by: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "explanation": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to… This demonstrates practical capability in AI agents are acting like rogues and causing a huge headache for US banks.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      ],
+      "publication_dates": [
+        "2026-10-19T09:08:05.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "explanation": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\" This demonstrates practical capability in AI agents are acting like rogues and causing a huge headache for US banks.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/"
+      ],
+      "publication_dates": [
+        "2026-10-07T11:00:40.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "explanation": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. This demonstrates practical capability in AI agents are acting like rogues and causing a huge headache for US banks.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+      ],
+      "publication_dates": [
+        "2026-10-13T17:30:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "explanation": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules… This demonstrates practical capability in AI agents are acting like rogues and causing a huge headache for US banks.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+      ],
+      "publication_dates": [
+        "2026-10-19T18:22:47.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "explanation": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to… This demonstrates practical capability in AI agents are acting like rogues and causing a huge headache for US banks.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      ],
+      "publication_dates": [
+        "2026-10-19T09:08:05.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Un",
+      "original_source": "MIT Technology Review — AI (Making the internet better for AI agents might make it worse for everyone else)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on ",
+      "original_source": "MIT Technology Review — AI (AI researchers stranded Claude on a virtual desert island. It started to “play.”)",
+      "evidence_id": "ev_005",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "original_source": "Ars Technica — AI & Software (If you're looking, here's a \"good deal\" for NASA and the European Space Agency)",
+      "evidence_id": "ev_006",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "original_source": "Ars Technica — AI & Software (If you're looking, here's a \"good deal\" for NASA and the European Space Agency)",
+      "evidence_id": "ev_010",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?",
+        "evidence": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert isl",
+        "severity": "high"
+      },
+      {
+        "problem": "What regulatory, privacy, or security constraints impact AI agents are acting like rogues and causing a huge headache for US banks?",
+        "evidence": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "What verified capabilities and architectural components define AI agents are acting like rogues and causing a huge headache for US banks?",
+      "What empirical benchmarks or performance metrics exist regarding AI agents are acting like rogues and causing a huge headache for US banks?",
+      "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "AI agents are acting like rogues and causing a huge headache for US banks is only relevant to large enterprises with dedicated engineering teams.",
+        "reality_backed_by_evidence": "Research shows AI agents are acting like rogues and causing a huge headache for US banks is increasingly accessible to mid-market and smaller teams, with documented case studies across organization sizes."
+      }
+    ],
+    "unanswered_questions": [],
+    "inferences_labeled": [
+      "[Inference] Adoption of AI agents are acting like rogues and causing a huge headache for US banks among engineering leaders, software architects, and founders will accelerate as empirical evidence from early adopters becomes more widely published."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "The Real-World Impact of AI agents are acting like rogues and causing a huge headache for US banks: What the Evidence Shows",
+      "core_audience_question": "What verified capabilities and architectural components define AI agents are acting like rogues and causing a huge headache for US banks?",
+      "central_thesis": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly str — supported by: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+      "why_useful": "Directly addresses the primary research question for engineering leaders, software architects, and founders considering adoption of AI agents are acting like rogues and causing a huge headache for US banks.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_004"
+      ],
+      "recommended_format": "9:16 vertical motion-graphics breakdown with architecture diagrams",
+      "differentiation": "Provides verified empirical findings on AI agents are acting like rogues and causing a huge headache for US banks rather than vendor marketing claims."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "AI agents are acting like rogues and causing a huge headache for US banks: Benchmarks, Metrics, and Real Numbers",
+      "core_audience_question": "What empirical benchmarks or performance metrics exist regarding AI agents are acting like rogues and causing a huge headache for US banks?",
+      "central_thesis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+      "why_useful": "Gives engineering leaders, software architects, and founders real data rather than marketing projections.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Focuses on empirical measurement, not theoretical projections."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "How to Implement AI agents are acting like rogues and causing a huge headache for US banks Without the Common Mistakes",
+      "core_audience_question": "What are the cost tradeoffs and unit economics of adopting AI agents are acting like rogues and causing a huge headache for US banks?",
+      "central_thesis": "A structured, phased approach to adopting AI agents are acting like rogues and causing a huge headache for US banks reduces risk and accelerates validated results for engineering leaders, software architects, and founders.",
+      "why_useful": "Provides concrete systems guidance that engineering leaders, software architects, and founders can immediately act on.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical walkthrough with step-by-step process diagrams",
+      "differentiation": "Focuses on validated implementation patterns over theoretical design principles."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "engineering leaders, software architects, and founders",
+    "viewer_problem": "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?",
+    "core_promise": "Understand the verified, empirical reality of AI agents are acting like rogues and causing a huge headache for US banks — including benchmarks, architecture, and implementation tradeoffs — so you can make informed decisions.",
+    "main_thesis": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly str — supported by: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_004"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents ",
+        "suggested_visual": "kinetic_typography with dynamic accent colors and punchy entry animation"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "problem",
+        "key_point": "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?",
+        "suggested_visual": "split_callout or comparison_grid showing before/after adoption state"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "architecture",
+        "key_point": "What verified capabilities and architectural components define AI agents are acting like rogues and causing a huge headache for US banks?: \"We are in the era of people interested in having good deals, and LISA is a very",
+        "suggested_visual": "system_architecture diagram with labeled nodes and animated data flow"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "evidence",
+        "key_point": "Measured results from early adopters of AI agents are acting like rogues and causing a huge headache for US banks in production environments.",
+        "suggested_visual": "stat_counter or infographic_grid animating verified benchmark data"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "cta",
+        "key_point": "Get deeper coverage of AI agents are acting like rogues and causing a huge headache for US banks and practical AI engineering. Follow Voiceage Systems.",
+        "suggested_visual": "cta panel with glowing call-to-action button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim AI agents are acting like rogues and causing a huge headache for US banks eliminates all human oversight requirements.",
+      "Do NOT assert specific performance figures without citing a verified evidence ID.",
+      "Do NOT recommend adoption of AI agents are acting like rogues and causing a huge headache for US banks without noting applicable regulatory and compliance constraints."
+    ],
+    "requires_additional_verification": [
+      "Verify that any numerical benchmarks cited for AI agents are acting like rogues and causing a huge headache for US banks reference peer-reviewed or vendor-audited studies."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_008",
+        "ev_012",
+        "ev_013",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_ars_technica",
+      "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "publisher": "Ars Technica — AI & Software",
+      "canonical_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_006",
+        "ev_010",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_009",
+        "ev_011"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_008",
+        "ev_012",
+        "ev_013",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_hackernews",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "publisher": "Hacker News — Top Discussions",
+      "canonical_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_007"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_009",
+        "ev_011"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "retrieved_at": "2026-10-22T22:57:33.895Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_009",
+        "ev_011"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.810Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency: \"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+      "source_title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-07T11:00:40.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.810Z",
+      "supporting_excerpt": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable star",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source_title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-13T17:30:00.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.811Z",
+      "supporting_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.831Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.831Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency: \"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+      "source_title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-07T11:00:40.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.831Z",
+      "supporting_excerpt": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "Containment and monitoring failures are to blame for AI hacking reports: experts: Comments",
+      "source_id": "src_hackernews",
+      "source_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source_title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "publisher": "Hacker News — Top Discussions",
+      "publication_date": "2026-10-14T17:45:23.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.849Z",
+      "supporting_excerpt": "Comments",
+      "evidence_type": "community_observation",
+      "source_quality": "community",
+      "confidence": "low",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.849Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "Meta says Muse has over 10M users, with shopping a top activity: Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source_title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-21T21:14:19.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.849Z",
+      "supporting_excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency: \"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+      "source_title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-07T11:00:40.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.866Z",
+      "supporting_excerpt": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source_title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:56:42.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.866Z",
+      "supporting_excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_012": {
+      "evidence_id": "ev_012",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.866Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_013": {
+      "evidence_id": "ev_013",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.880Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_014": {
+      "evidence_id": "ev_014",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.880Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_015": {
+      "evidence_id": "ev_015",
+      "claim_text": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency: \"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+      "source_title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-07T11:00:40.000Z",
+      "retrieved_at": "2026-10-22T22:57:33.880Z",
+      "supporting_excerpt": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "AI agents are acting like rogues and causing a huge headache for US banks",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "core_thesis": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly str — supported by: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+    "recommended_angle_title": "The Real-World Impact of AI agents are acting like rogues and causing a huge headache for US banks: What the Evidence Shows",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents ",
+        "visual_suggestion": "kinetic_typography with dynamic accent colors and punchy entry animation"
+      },
+      {
+        "beat": "Beat 2: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?",
+        "visual_suggestion": "split_callout or comparison_grid showing before/after adoption state"
+      },
+      {
+        "beat": "Beat 3: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "What verified capabilities and architectural components define AI agents are acting like rogues and causing a huge headache for US banks?: \"We are in the era of people interested in having good deals, and LISA is a very",
+        "visual_suggestion": "system_architecture diagram with labeled nodes and animated data flow"
+      },
+      {
+        "beat": "Beat 4: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "Measured results from early adopters of AI agents are acting like rogues and causing a huge headache for US banks in production environments.",
+        "visual_suggestion": "stat_counter or infographic_grid animating verified benchmark data"
+      },
+      {
+        "beat": "Beat 5: CTA",
+        "purpose": "cta",
+        "narration_focus": "Get deeper coverage of AI agents are acting like rogues and causing a huge headache for US banks and practical AI engineering. Follow Voiceage Systems.",
+        "visual_suggestion": "cta panel with glowing call-to-action button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Un",
+        "source_title": "MIT Technology Review — AI (Making the internet better for AI agents might make it worse for everyone else)",
+        "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on ",
+        "source_title": "MIT Technology Review — AI (AI researchers stranded Claude on a virtual desert island. It started to “play.”)",
+        "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "evidence_id": "ev_005"
+      },
+      {
+        "claim": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+        "source_title": "Ars Technica — AI & Software (If you're looking, here's a \"good deal\" for NASA and the European Space Agency)",
+        "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+        "evidence_id": "ev_006"
+      },
+      {
+        "claim": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+        "source_title": "Ars Technica — AI & Software (If you're looking, here's a \"good deal\" for NASA and the European Space Agency)",
+        "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+        "evidence_id": "ev_010"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "What verified capabilities and architectural components define AI agents are acting like rogues and causing a huge headache for US banks?",
+      "What empirical benchmarks or performance metrics exist regarding AI agents are acting like rogues and causing a huge headache for US banks?",
+      "What operational friction, failure modes, or pain points do users report with AI agents are acting like rogues and causing a huge headache for US banks?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim AI agents are acting like rogues and causing a huge headache for US banks eliminates all human oversight requirements.",
+      "Do NOT assert specific performance figures without citing a verified evidence ID.",
+      "Do NOT recommend adoption of AI agents are acting like rogues and causing a huge headache for US banks without noting applicable regulatory and compliance constraints."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

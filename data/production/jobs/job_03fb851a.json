@@ -1,0 +1,112 @@
+{
+  "job_id": "job_03fb851a",
+  "project_id": "proj_6948075c-142c-429f-85b3-006d4bdeeef6",
+  "created_at": "2026-10-26T18:54:55.561Z",
+  "updated_at": "2026-10-26T18:55:44.994Z",
+  "status": "running",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "directing_post_production",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_71039056",
+    "script_id": "script_b0df8278",
+    "storyboard_id": "sb_b01a36c6",
+    "scene_plan_id": "The Real-World Impact of AI Agents in Route Optimization: Real Impact: What the Evidence Shows"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-26T18:54:55.611Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-26T18:54:55.627Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-26T18:54:55.642Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-26T18:54:55.664Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-26T18:54:55.727Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-26T18:54:55.762Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-26T18:54:55.883Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-26T18:54:55.949Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-26T18:55:42.707Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-26T18:55:42.722Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-26T18:55:42.732Z"
+    },
+    "directing_post_production": {
+      "stage": "directing_post_production",
+      "completed_at": "2026-10-26T18:55:43.972Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-26T18:55:43.992Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-26T18:55:44.994Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyberpunk_dark",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_71039056"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\subtitles\\captions.vtt",
+    "editing_plan_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_6948075c-142c-429f-85b3-006d4bdeeef6\\editing_plan.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_001 claim \"claim_001_1\" violates constraint: \"Do NOT claim AI Agents in Route Optimization: Real Impact eliminates all human oversight requirements.\"; Scene scene_008 claim \"claim_008_1\" violates constraint: \"Do NOT claim AI Agents in Route Optimization: Real Impact eliminates all human oversight requirements.\"",
+    "Diversity: Scene sequence matches recent generation \"job_5485c525\". Diversity penalty applied."
+  ]
+}

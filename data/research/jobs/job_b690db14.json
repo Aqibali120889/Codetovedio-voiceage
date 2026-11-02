@@ -1,0 +1,14 @@
+{
+  "job_id": "job_b690db14",
+  "request": {
+    "mode": "compare_alternatives",
+    "topic": "Microsoft Strengthens Digital Sovereignty Push with New Cloud and AI Protections",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-23T16:57:22.492Z"
+}

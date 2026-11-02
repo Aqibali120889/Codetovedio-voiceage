@@ -1,0 +1,14 @@
+{
+  "job_id": "job_d20a039b",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "AI Agents in Route Optimization: Real Impact",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-26T18:31:23.240Z"
+}

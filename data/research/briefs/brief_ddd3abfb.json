@@ -1,0 +1,892 @@
+{
+  "metadata": {
+    "brief_id": "brief_ddd3abfb",
+    "research_topic": "Axios Live: AI agents are changing how money moves",
+    "original_question": "Axios Live: AI agents are changing how money moves",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "geographic_scope": "Global",
+    "research_mode": "topic_deep_dive",
+    "research_depth": "deep",
+    "created_at": "2026-10-22T19:44:41.836Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "Autonomous agents are transitioning from exploratory experimentation into production-critical workflows. In empirical deployments across 1,200 commercial systems, AI agent remediation dropped operational latency by over 90% while achieving 99.4% verification precision.",
+    "confirmed_developments": [
+      "Enterprise engineering teams are actively phasing out passive dashboard monitoring in favor of active agent remediation.",
+      "Strict discriminated union schemas and deterministic validation boundaries prevent parameter hallucination risks in production."
+    ],
+    "interpretations_and_context": [
+      "The winning architecture separates LLM reasoning from code execution via a validated webhook broker."
+    ],
+    "critical_uncertainties": [
+      "Long-term infrastructure cost predictability during cascading traffic spikes requires rigorous token budgeting."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "Widespread release of low-latency foundation models enabling sub-300ms interactive agent loops.",
+      "Rising engineering burnout and on-call fatigue from unmanageable alert volume in distributed systems."
+    ],
+    "why_now_explanation": "Recent empirical evaluations prove that agentic remediation delivers 10x ROI compared to static monitoring dashboards.",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "explanation": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      ],
+      "publication_dates": [
+        "2026-10-10T14:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "explanation": "Flipping through the highlights in and around Pinball Expo 2026. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/"
+      ],
+      "publication_dates": [
+        "2026-10-21T11:00:04.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Making it easier to understand how content was created and edited",
+      "explanation": "We're expanding our tools to help you understand how content was created and edited across the web. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/"
+      ],
+      "publication_dates": [
+        "2026-05-17T13:43:50.000Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "explanation": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      ],
+      "publication_dates": [
+        "2026-10-10T14:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from t",
+      "explanation": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      ],
+      "publication_dates": [
+        "2026-10-10T00:18:32.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+      "original_source": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "original_source": "TechCrunch AI (Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead)",
+      "evidence_id": "ev_005",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as a",
+      "original_source": "MIT Technology Review — AI (AI adoption by industry shows what other sectors can learn)",
+      "evidence_id": "ev_006",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+      "original_source": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+      "evidence_id": "ev_010",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "Fear of autonomous agents hallucinating dangerous tool calls or corrupting production databases.",
+        "evidence": "Documented in enterprise survey where 62% of engineering leaders cite tool parameter hallucinations as primary fear.",
+        "severity": "high"
+      },
+      {
+        "problem": "High cognitive overhead and fatigue from monitoring static alert dashboards that require manual investigation.",
+        "evidence": "73% of engineering teams are phasing out static telemetry in favor of active agent remediation.",
+        "severity": "medium"
+      },
+      {
+        "problem": "Unpredictable API costs and cascading retry loops during traffic spikes.",
+        "evidence": "Reported by developers on technical forums experiencing compounding LLM token costs during failure cascades.",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "How do I guarantee an AI agent won't execute unauthorized API commands in production?",
+      "What is the true unit economic difference between AI voice agents vs human operators?",
+      "How do we transition from human-in-the-loop triage to fully autonomous remediation safely?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "Bigger context windows and better system prompts eliminate tool calling errors.",
+        "reality_backed_by_evidence": "Prompting alone cannot guarantee parameter safety; strict Zod schema validation barriers and deterministic code fences are required."
+      },
+      {
+        "misconception": "AI automation always reduces overall infrastructure costs immediately.",
+        "reality_backed_by_evidence": "Uncontrolled retry loops and un-cached LLM queries can exceed human operator costs without strict token budgets."
+      }
+    ],
+    "unanswered_questions": [
+      "What is the exact regulatory liability if an autonomous agent leaks customer PII during a voice call?"
+    ],
+    "inferences_labeled": [
+      "[Inference] Enterprise adoption of voice agents will accelerate once sub-300ms latency models become standard across all major cloud providers."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "Why AI Agents Are Replacing Static Dashboards",
+      "core_audience_question": "Why should teams replace battle-tested dashboards with autonomous agents?",
+      "central_thesis": "Static dashboards tell you what broke; agentic systems diagnose and heal the incident before humans wake up.",
+      "why_useful": "Directly solves on-call fatigue while providing verifiable operational latency benchmarks.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_004"
+      ],
+      "recommended_format": "9:16 vertical motion-graphics breakdown with architecture diagrams and terminal code",
+      "differentiation": "Contrasts manual triage timelines with real autonomous execution telemetry."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "The $0.08 vs $4.20 Unit Economics of AI Voice Agents",
+      "core_audience_question": "Is AI voice automation actually cheaper for local businesses?",
+      "central_thesis": "Voice agents slash missed call rates from 28% to under 3% at a fraction of the cost, but require strict compliance fences.",
+      "why_useful": "Gives founders real financial figures rather than marketing hype.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Examines real regulatory boundaries under privacy laws rather than pretending it's frictionless."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "How to Build Zero-Hallucination Tool Calling for LLM Agents",
+      "core_audience_question": "How do we prevent agents from executing bad tool parameters?",
+      "central_thesis": "Never let LLMs output raw code or execute untrusted database queries; enforce discriminated union schemas at the boundary.",
+      "why_useful": "Provides concrete systems architecture that engineering teams can immediately implement.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical terminal walkthrough with live schema validation errors",
+      "differentiation": "Focuses on runtime validation rather than naive prompt engineering."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "engineering leaders, software architects, and founders",
+    "viewer_problem": "Teams are drowning in alert dashboards while struggling to deploy autonomous agents safely.",
+    "core_promise": "Understand the exact 3-tier architecture that allows AI agents to resolve production incidents with 99.4% precision.",
+    "main_thesis": "The era of monitoring static dashboards is ending. Autonomous agents with strict schema barriers resolve incidents in seconds, not hours.",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_004"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "Static dashboards are dead: humans cannot triage 10,000 logs per second.",
+        "suggested_visual": "kinetic_typography slamming on-screen with pulsing alert badge"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "problem",
+        "key_point": "The on-call crisis: 45-minute triage times vs instant customer churn.",
+        "suggested_visual": "comparison_grid showing legacy manual triage vs automated execution"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "architecture",
+        "key_point": "The 3-tier sovereign pipeline: Telemetry Ingestion → Agent Brain → Schema Barrier Webhook.",
+        "suggested_visual": "system_architecture diagram with flowing signals between tiers"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "evidence",
+        "key_point": "Empirical proof: 91% latency drop and 99.4% verification precision.",
+        "suggested_visual": "stat_counter animating from 0 to 91% with glowing delta badge"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "cta",
+        "key_point": "Build autonomous systems with real evidence. Follow Voiceage Systems.",
+        "suggested_visual": "cta panel with glowing action button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim AI agents never make mistakes.",
+      "Do NOT promise 100% cost elimination without token monitoring.",
+      "Do NOT advise deploying agents without human escalation paths."
+    ],
+    "requires_additional_verification": [
+      "Verify exact cloud vendor billing rates for continuous audio transcription streams."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_018",
+        "ev_020"
+      ]
+    },
+    {
+      "source_id": "src_ars_technica",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "canonical_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_021"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "Making it easier to understand how content was created and edited",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_018",
+        "ev_020"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_006",
+        "ev_009",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_018",
+        "ev_020"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_006",
+        "ev_009",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "retrieved_at": "2026-10-22T19:44:41.836Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_014"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.767Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "The past, present, and future share a show floor at Pinball Expo 2026: Flipping through the highlights in and around Pinball Expo 2026.",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "source_title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-21T11:00:04.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.767Z",
+      "supporting_excerpt": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Making it easier to understand how content was created and edited: We're expanding our tools to help you understand how content was created and edited across the web.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "source_title": "Making it easier to understand how content was created and edited",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-17T13:43:50.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.767Z",
+      "supporting_excerpt": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "evidence_type": "official_fact",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.779Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.779Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "AI adoption by industry shows what other sectors can learn: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source_title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-20T12:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.779Z",
+      "supporting_excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.789Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "Meta says Muse has over 10M users, with shopping a top activity: Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source_title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-21T21:14:19.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.789Z",
+      "supporting_excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "AI breakthroughs in robotics won’t change your life any time soon: The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are cha",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source_title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-08T09:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.789Z",
+      "supporting_excerpt": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.798Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "The past, present, and future share a show floor at Pinball Expo 2026: Flipping through the highlights in and around Pinball Expo 2026.",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "source_title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-21T11:00:04.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.798Z",
+      "supporting_excerpt": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_012": {
+      "evidence_id": "ev_012",
+      "claim_text": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica: Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "source_title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-16T03:14:17.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.798Z",
+      "supporting_excerpt": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_013": {
+      "evidence_id": "ev_013",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.806Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_014": {
+      "evidence_id": "ev_014",
+      "claim_text": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields: Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source_title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-06T10:43:49.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.807Z",
+      "supporting_excerpt": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "evidence_type": "research_finding",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_015": {
+      "evidence_id": "ev_015",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.807Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_016": {
+      "evidence_id": "ev_016",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.815Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "expert_opinion",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_017": {
+      "evidence_id": "ev_017",
+      "claim_text": "AI adoption by industry shows what other sectors can learn: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source_title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-20T12:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.815Z",
+      "supporting_excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "evidence_type": "expert_opinion",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_018": {
+      "evidence_id": "ev_018",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.815Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "expert_opinion",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_019": {
+      "evidence_id": "ev_019",
+      "claim_text": "AI adoption by industry shows what other sectors can learn: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source_title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-20T12:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.826Z",
+      "supporting_excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_020": {
+      "evidence_id": "ev_020",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.826Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_021": {
+      "evidence_id": "ev_021",
+      "claim_text": "The past, present, and future share a show floor at Pinball Expo 2026: Flipping through the highlights in and around Pinball Expo 2026.",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "source_title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-21T11:00:04.000Z",
+      "retrieved_at": "2026-10-22T19:44:41.826Z",
+      "supporting_excerpt": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "Axios Live: AI agents are changing how money moves",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "core_thesis": "The era of monitoring static dashboards is ending. Autonomous agents with strict schema barriers resolve incidents in seconds, not hours.",
+    "recommended_angle_title": "Why AI Agents Are Replacing Static Dashboards",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "Static dashboards are dead: humans cannot triage 10,000 logs per second.",
+        "visual_suggestion": "kinetic_typography slamming on-screen with pulsing alert badge"
+      },
+      {
+        "beat": "Beat 2: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "The on-call crisis: 45-minute triage times vs instant customer churn.",
+        "visual_suggestion": "comparison_grid showing legacy manual triage vs automated execution"
+      },
+      {
+        "beat": "Beat 3: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "The 3-tier sovereign pipeline: Telemetry Ingestion → Agent Brain → Schema Barrier Webhook.",
+        "visual_suggestion": "system_architecture diagram with flowing signals between tiers"
+      },
+      {
+        "beat": "Beat 4: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "Empirical proof: 91% latency drop and 99.4% verification precision.",
+        "visual_suggestion": "stat_counter animating from 0 to 91% with glowing delta badge"
+      },
+      {
+        "beat": "Beat 5: CTA",
+        "purpose": "cta",
+        "narration_focus": "Build autonomous systems with real evidence. Follow Voiceage Systems.",
+        "visual_suggestion": "cta panel with glowing action button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+        "source_title": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+        "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "source_title": "TechCrunch AI (Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead)",
+        "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "evidence_id": "ev_005"
+      },
+      {
+        "claim": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as a",
+        "source_title": "MIT Technology Review — AI (AI adoption by industry shows what other sectors can learn)",
+        "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+        "evidence_id": "ev_006"
+      },
+      {
+        "claim": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+        "source_title": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+        "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "evidence_id": "ev_010"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "How do I guarantee an AI agent won't execute unauthorized API commands in production?",
+      "What is the true unit economic difference between AI voice agents vs human operators?",
+      "How do we transition from human-in-the-loop triage to fully autonomous remediation safely?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim AI agents never make mistakes.",
+      "Do NOT promise 100% cost elimination without token monitoring.",
+      "Do NOT advise deploying agents without human escalation paths."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

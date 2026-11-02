@@ -1,0 +1,100 @@
+{
+  "job_id": "job_928e9c66",
+  "project_id": "proj_de3a077a-8cc8-4b10-a5a4-cea603612c05",
+  "created_at": "2026-10-22T20:02:59.388Z",
+  "updated_at": "2026-10-22T20:03:00.290Z",
+  "status": "completed",
+  "current_stage": "completed",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "completed"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_c8770913",
+    "script_id": "script_713d52c3",
+    "storyboard_id": "sb_9586e882",
+    "scene_plan_id": "Why AI Agents Are Replacing Static Dashboards"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-22T20:02:59.390Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-22T20:02:59.410Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-22T20:02:59.420Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-22T20:02:59.423Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-22T20:02:59.428Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-22T20:02:59.443Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-22T20:02:59.478Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-22T20:02:59.491Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-22T20:03:00.257Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-22T20:03:00.259Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-22T20:03:00.266Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-22T20:03:00.284Z"
+    }
+  },
+  "config": {
+    "skip_render": true,
+    "force_deterministic": true,
+    "force_mock_audio": true,
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "target_duration_seconds": 25,
+    "brief_id": "brief_c8770913"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_de3a077a-8cc8-4b10-a5a4-cea603612c05\\subtitles\\captions.vtt"
+  },
+  "warnings": []
+}

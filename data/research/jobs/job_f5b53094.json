@@ -1,0 +1,14 @@
+{
+  "job_id": "job_f5b53094",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Axios Live: AI agents are changing how money moves",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "deep"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-22T19:44:11.732Z"
+}

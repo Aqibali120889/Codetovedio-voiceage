@@ -1,0 +1,418 @@
+[
+  {
+    "topic_id": "topic_9bb5716d",
+    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "summary": "Comments — In-depth technical industry development.",
+    "category": "developer_sentiment",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "Google DeepMind Research reported: \"Gemini 4 Argon: our next era of frontier intelligence\" (2026-09-30)",
+      "Google DeepMind Research reported: \"Gemini Robotics 2 brings whole body intelligence to robots\" (2026-07-28)",
+      "Google DeepMind Research reported: \"A new era of intelligence with Gemini 3\" (2025-11-18)",
+      "Google DeepMind Research reported: \"Gemini 4 Carbon: Our next frontier model\" (2026-10-28)",
+      "Hacker News — Top Discussions reported: \"Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\" (2026-10-29)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 2,
+      "recency_score": 86,
+      "evidence_quality_score": 89,
+      "audience_relevance_score": 50,
+      "momentum_score": 64,
+      "overall_score": 58
+    },
+    "source_references": [
+      {
+        "source_id": "src_deepmind",
+        "source_name": "Google DeepMind Research",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "published_at": "2026-09-30T20:01:45.000Z"
+      },
+      {
+        "source_id": "src_deepmind",
+        "source_name": "Google DeepMind Research",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "published_at": "2026-07-28T13:21:37.000Z"
+      },
+      {
+        "source_id": "src_deepmind",
+        "source_name": "Google DeepMind Research",
+        "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+        "published_at": "2025-11-18T16:06:41.000Z"
+      },
+      {
+        "source_id": "src_deepmind",
+        "source_name": "Google DeepMind Research",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+        "published_at": "2026-10-28T17:00:58.000Z"
+      },
+      {
+        "source_id": "src_hackernews",
+        "source_name": "Hacker News — Top Discussions",
+        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+        "published_at": "2026-10-29T12:41:56.000Z"
+      }
+    ],
+    "first_seen_at": "2025-11-18T16:06:41.000Z",
+    "last_seen_at": "2026-10-29T12:41:56.000Z",
+    "confidence": "high",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 58/100 driven by 2 independent publisher(s), recency rating 86/100, and evidence quality 89/100."
+  },
+  {
+    "topic_id": "topic_2b58114b",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "Google DeepMind Research reported: \"Genie 4: A new generation of world simulation\" (2026-10-27)",
+      "TechCrunch AI reported: \"Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering\" (2026-10-27)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 2,
+      "recency_score": 76,
+      "evidence_quality_score": 88,
+      "audience_relevance_score": 50,
+      "momentum_score": 44,
+      "overall_score": 56
+    },
+    "source_references": [
+      {
+        "source_id": "src_deepmind",
+        "source_name": "Google DeepMind Research",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "published_at": "2026-10-27T16:01:38.000Z"
+      },
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "published_at": "2026-10-27T16:30:57.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-27T16:01:38.000Z",
+    "last_seen_at": "2026-10-27T16:30:57.000Z",
+    "confidence": "high",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 56/100 driven by 2 independent publisher(s), recency rating 76/100, and evidence quality 88/100."
+  },
+  {
+    "topic_id": "topic_e6ee8e5c",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open\" (2026-10-28)",
+      "TechCrunch AI reported: \"Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate\" (2026-10-30)",
+      "TechCrunch AI reported: \"5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026\" (2026-10-30)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 93,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 70,
+      "momentum_score": 42,
+      "overall_score": 47
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+        "published_at": "2026-10-28T13:00:00.000Z"
+      },
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+        "published_at": "2026-10-30T14:00:00.000Z"
+      },
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+        "published_at": "2026-10-30T13:00:00.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-28T13:00:00.000Z",
+    "last_seen_at": "2026-10-30T14:00:00.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 47/100 driven by 1 independent publisher(s), recency rating 93/100, and evidence quality 75/100."
+  },
+  {
+    "topic_id": "topic_7b816f2b",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"Claude Duet app is Anthropic’s bet on agents\" (2026-10-22)",
+      "Hacker News — Top Discussions reported: \"Claude Duet\" (2026-10-21)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 2,
+      "recency_score": 52,
+      "evidence_quality_score": 60,
+      "audience_relevance_score": 60,
+      "momentum_score": 44,
+      "overall_score": 46
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+        "published_at": "2026-10-22T13:53:26.000Z"
+      },
+      {
+        "source_id": "src_hackernews",
+        "source_name": "Hacker News — Top Discussions",
+        "url": "https://claude.com/product/claude-duet",
+        "published_at": "2026-10-21T19:14:01.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-21T19:14:01.000Z",
+    "last_seen_at": "2026-10-22T13:53:26.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 46/100 driven by 2 independent publisher(s), recency rating 52/100, and evidence quality 60/100."
+  },
+  {
+    "topic_id": "topic_da44fa5c",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"As AI agents reshape the web, Google opens Gemini and Search to more apps\" (2026-10-28)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 81,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 70,
+      "momentum_score": 42,
+      "overall_score": 45
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "published_at": "2026-10-28T17:00:00.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-28T17:00:00.000Z",
+    "last_seen_at": "2026-10-28T17:00:00.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 45/100 driven by 1 independent publisher(s), recency rating 81/100, and evidence quality 75/100."
+  },
+  {
+    "topic_id": "topic_32a5a2a3",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says\" (2026-10-30)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 95,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 60,
+      "momentum_score": 42,
+      "overall_score": 44
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "published_at": "2026-10-30T21:52:03.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-30T21:52:03.000Z",
+    "last_seen_at": "2026-10-30T21:52:03.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 44/100 driven by 1 independent publisher(s), recency rating 95/100, and evidence quality 75/100."
+  },
+  {
+    "topic_id": "topic_cad97041",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "summary": "DoorDash said that it is open to working with third-party agent makers.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"DoorDash said it’s only received ‘several hundred’ orders from AI agents\" (2026-10-30)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 93,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 60,
+      "momentum_score": 42,
+      "overall_score": 44
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "published_at": "2026-10-30T13:54:25.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-30T13:54:25.000Z",
+    "last_seen_at": "2026-10-30T13:54:25.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 44/100 driven by 1 independent publisher(s), recency rating 93/100, and evidence quality 75/100."
+  },
+  {
+    "topic_id": "topic_8468ff4d",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"AWS will be a $1T business, Jassy says — but first, it will spend big\" (2026-10-29)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 89,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 60,
+      "momentum_score": 42,
+      "overall_score": 44
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "published_at": "2026-10-29T23:42:22.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-29T23:42:22.000Z",
+    "last_seen_at": "2026-10-29T23:42:22.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 44/100 driven by 1 independent publisher(s), recency rating 89/100, and evidence quality 75/100."
+  },
+  {
+    "topic_id": "topic_1efbafbd",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+    "category": "ai_policy",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "MIT Technology Review — AI reported: \"We urgently need to monitor AI agents’ actions in real time\" (2026-10-29)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 86,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 60,
+      "momentum_score": 42,
+      "overall_score": 43
+    },
+    "source_references": [
+      {
+        "source_id": "src_mit_tech_review",
+        "source_name": "MIT Technology Review — AI",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "published_at": "2026-10-29T10:11:12.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-29T10:11:12.000Z",
+    "last_seen_at": "2026-10-29T10:11:12.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 43/100 driven by 1 independent publisher(s), recency rating 86/100, and evidence quality 75/100."
+  },
+  {
+    "topic_id": "topic_9ebb44d4",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "category": "startups",
+    "why_it_matters_now": "Recent empirical benchmarks show high operational ROI for autonomous orchestration, but production teams face unhandled tool failures and cascading API errors.",
+    "audience_problem": "Reconciling autonomous agent execution with enterprise reliability, cost predictability, and zero-hallucination tool parameters.",
+    "key_developments": [
+      "TechCrunch AI reported: \"As search traffic dries up, Reddit announces it’s shifting to a logged-in experience\" (2026-10-29)"
+    ],
+    "trend_signals": {
+      "independent_source_count": 1,
+      "recency_score": 88,
+      "evidence_quality_score": 75,
+      "audience_relevance_score": 60,
+      "momentum_score": 42,
+      "overall_score": 43
+    },
+    "source_references": [
+      {
+        "source_id": "src_techcrunch_ai",
+        "source_name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "published_at": "2026-10-29T20:08:31.000Z"
+      }
+    ],
+    "first_seen_at": "2026-10-29T20:08:31.000Z",
+    "last_seen_at": "2026-10-29T20:08:31.000Z",
+    "confidence": "medium",
+    "potential_content_angles": [
+      "Why Static Dashboards Are Dead: Autonomous Agents in Action",
+      "The Hidden Economics of AI Voice Agents: Costs vs Human Operators",
+      "How to Stop AI Tool Hallucinations: Schema Barrier Architecture"
+    ],
+    "ranking_explanation": "Overall score 43/100 driven by 1 independent publisher(s), recency rating 88/100, and evidence quality 75/100."
+  }
+]

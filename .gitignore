@@ -2,6 +2,23 @@ node_modules
 dist
 .DS_Store
 .env
+.env.local
 
-# Ignore the output video from Git but not videos you import into src/.
+# Remotion render outputs
 out
+build
+tmp
+*.mp4
+
+# AI Video Studio generated outputs
+# (generated audio, scripts, renders — keep out of Git)
+data/projects/
+data/renders/
+public/projects/
+*.log
+data/research/server.log
+step891_extracted.txt
+
+# Exception: keep example fixtures committed
+!data/.gitkeep
+

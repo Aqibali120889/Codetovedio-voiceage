@@ -1,0 +1,16 @@
+{
+  "job_id": "job_7b56347f",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "ESP-Mosaico Lets AI Agents Do the Coding",
+    "audience": "Engineers & Founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_a65fb7d1",
+  "started_at": "2026-10-23T12:50:35.505Z",
+  "completed_at": "2026-10-23T12:51:00.372Z",
+  "brief_id": "brief_a65fb7d1"
+}

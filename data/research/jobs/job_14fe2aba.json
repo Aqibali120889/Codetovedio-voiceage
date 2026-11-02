@@ -1,0 +1,16 @@
+{
+  "job_id": "job_14fe2aba",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Cognitive surrender: Artificial intelligence’s threat to democracy",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_151b7840",
+  "started_at": "2026-10-23T16:06:57.333Z",
+  "completed_at": "2026-10-23T16:07:05.409Z",
+  "brief_id": "brief_151b7840"
+}

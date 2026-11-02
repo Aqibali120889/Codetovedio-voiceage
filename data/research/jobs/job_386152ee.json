@@ -1,0 +1,14 @@
+{
+  "job_id": "job_386152ee",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "ESP-Mosaico Lets AI Agents Do the Coding",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-22T16:35:26.509Z"
+}

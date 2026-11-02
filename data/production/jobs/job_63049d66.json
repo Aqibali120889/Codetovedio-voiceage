@@ -1,0 +1,114 @@
+{
+  "job_id": "job_63049d66",
+  "project_id": "proj_2c86b995-76fc-460e-8862-fbb459aa5979",
+  "created_at": "2026-10-28T19:22:46.312Z",
+  "updated_at": "2026-10-28T19:22:50.167Z",
+  "status": "running",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "directing_post_production",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_038559eb",
+    "script_id": "script_a919ac4a",
+    "storyboard_id": "sb_d6c19730",
+    "scene_plan_id": "The Real-World Impact of Quantum Computing: Superconducting Transmons and Cryogenic Phase Coherence: What the Evidence Shows"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-28T19:22:46.315Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-28T19:22:46.324Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-28T19:22:46.329Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-28T19:22:46.333Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-28T19:22:46.344Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-28T19:22:46.353Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-28T19:22:46.357Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-28T19:22:46.396Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-28T19:22:47.421Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-28T19:22:47.423Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-28T19:22:47.429Z"
+    },
+    "directing_post_production": {
+      "stage": "directing_post_production",
+      "completed_at": "2026-10-28T19:22:47.431Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-28T19:22:47.440Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-28T19:22:50.167Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": true,
+    "background_music": true,
+    "target_duration_seconds": 30,
+    "resume": true,
+    "resume_project_id": "proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386",
+    "topic": "Quantum Computing: Superconducting Transmons and Cryogenic Phase Coherence"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\subtitles\\captions.vtt",
+    "editing_plan_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b8cf95b2-08d9-4a7f-9c63-8c50ff0b2386\\editing_plan.json"
+  },
+  "warnings": [
+    "Diversity: Scene sequence matches recent generation \"job_2c17e624\". Diversity penalty applied."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "job_id": "job_473612d3",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "AI agents are changing how money moves",
+    "audience": "Engineers & Founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_22914d7d",
+  "started_at": "2026-10-23T15:42:52.775Z",
+  "completed_at": "2026-10-23T15:43:01.771Z",
+  "brief_id": "brief_22914d7d"
+}

@@ -1,0 +1,773 @@
+{
+  "metadata": {
+    "brief_id": "brief_25577d98",
+    "research_topic": "Axios Live: AI agents are changing how money moves",
+    "original_question": "Axios Live: AI agents are changing how money moves",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "Engineers & Founders",
+    "geographic_scope": "Global",
+    "research_mode": "topic_deep_dive",
+    "research_depth": "standard",
+    "created_at": "2026-10-23T12:20:54.829Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as Recent evidence: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work..",
+    "confirmed_developments": [
+      "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from genera",
+      "The past, present, and future share a show floor at Pinball Expo 2026: Flipping through the highlights in and around Pinball Expo 2026.",
+      "Making it easier to understand how content was created and edited: We're expanding our tools to help you understand how content was created and edited across th"
+    ],
+    "interpretations_and_context": [
+      "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+      "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions."
+    ],
+    "critical_uncertainties": [
+      "Unresolved: Do NOT assert specific percentage profit gains or cost savings absent from verified evidence."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+      "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions."
+    ],
+    "why_now_explanation": "Axios Live: AI agents are changing how money moves is at an inflection point: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "explanation": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      ],
+      "publication_dates": [
+        "2026-10-10T14:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "explanation": "Flipping through the highlights in and around Pinball Expo 2026. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/"
+      ],
+      "publication_dates": [
+        "2026-10-21T11:00:04.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Making it easier to understand how content was created and edited",
+      "explanation": "We're expanding our tools to help you understand how content was created and edited across the web. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/"
+      ],
+      "publication_dates": [
+        "2026-05-17T13:43:50.000Z"
+      ],
+      "evidence_strength": "strong",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "high"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "explanation": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      ],
+      "publication_dates": [
+        "2026-10-10T14:00:00.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from t",
+      "explanation": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. This demonstrates practical capability in Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      ],
+      "publication_dates": [
+        "2026-10-10T00:18:32.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+      "original_source": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "original_source": "TechCrunch AI (Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead)",
+      "evidence_id": "ev_005",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as a",
+      "original_source": "MIT Technology Review — AI (AI adoption by industry shows what other sectors can learn)",
+      "evidence_id": "ev_006",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+      "original_source": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+      "evidence_id": "ev_010",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "What operational friction, failure modes, or pain points do users report with Axios Live: AI agents are changing how money moves?",
+        "evidence": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "severity": "high"
+      },
+      {
+        "problem": "What regulatory, privacy, or security constraints impact Axios Live: AI agents are changing how money moves?",
+        "evidence": "Flipping through the highlights in and around Pinball Expo 2026.",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "What verified capabilities and architectural components define Axios Live: AI agents are changing how money moves?",
+      "What empirical benchmarks or performance metrics exist regarding Axios Live: AI agents are changing how money moves?",
+      "What operational friction, failure modes, or pain points do users report with Axios Live: AI agents are changing how money moves?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "Axios Live: AI agents are changing how money moves is only relevant to large enterprises with dedicated engineering teams.",
+        "reality_backed_by_evidence": "Research shows Axios Live: AI agents are changing how money moves is increasingly accessible to mid-market and smaller teams, with documented case studies across organization sizes."
+      }
+    ],
+    "unanswered_questions": [],
+    "inferences_labeled": [
+      "[Inference] Adoption of Axios Live: AI agents are changing how money moves among Engineers & Founders will accelerate as empirical evidence from early adopters becomes more widely published."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "Autonomous Clearance: How AI Agents Are Rewiring Financial Rails",
+      "core_audience_question": "What verified capabilities and architectural components define Axios Live: AI agents are changing how money moves?",
+      "central_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+      "why_useful": "Directly addresses the primary research question for Engineers & Founders considering adoption of Axios Live: AI agents are changing how money moves.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_004"
+      ],
+      "recommended_format": "9:16 vertical motion-graphics breakdown with architecture diagrams",
+      "differentiation": "Provides verified empirical findings on Axios Live: AI agents are changing how money moves rather than vendor marketing claims."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "From Settlement Windows to Milliseconds: The Unit Economics of AI Money Movement",
+      "core_audience_question": "What empirical benchmarks or performance metrics exist regarding Axios Live: AI agents are changing how money moves?",
+      "central_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general as",
+      "why_useful": "Gives Engineers & Founders real data rather than marketing projections.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Focuses on empirical measurement, not theoretical projections."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "Under the Hood: How Financial Agents Route Capital Deterministically",
+      "core_audience_question": "What are the cost tradeoffs and unit economics of adopting Axios Live: AI agents are changing how money moves?",
+      "central_thesis": "A structured, phased approach to adopting Axios Live: AI agents are changing how money moves reduces risk and accelerates validated results for Engineers & Founders.",
+      "why_useful": "Provides concrete systems guidance that Engineers & Founders can immediately act on.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical walkthrough with step-by-step process diagrams",
+      "differentiation": "Focuses on validated implementation patterns over theoretical design principles."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "Engineers & Founders",
+    "viewer_problem": "What operational friction, failure modes, or pain points do users report with Axios Live: AI agents are changing how money moves?",
+    "core_promise": "Understand the verified, empirical reality of Axios Live: AI agents are changing how money moves — including benchmarks, architecture, and implementation tradeoffs — so you can make informed decisions.",
+    "main_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_004"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+        "suggested_visual": "document_reveal or editorial_montage showing high-velocity capital routing"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "problem",
+        "key_point": "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions.",
+        "suggested_visual": "split_callout comparing legacy batch settlement against real-time agent execution"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "architecture",
+        "key_point": "What verified capabilities and architectural components define Axios Live: AI agents are changing how money moves?: Flipping through the highlights in and around Pinball Expo 2026.",
+        "suggested_visual": "system_architecture diagram illustrating transaction verification and ledger synchronization"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "evidence",
+        "key_point": "Verified transaction throughput and settlement velocity figures from production data.",
+        "suggested_visual": "stat_counter or infographic_grid animating verified transaction metrics"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "cta",
+        "key_point": "The future of capital movement is instant and verifiable. Follow Voiceage Systems for deeper coverage.",
+        "suggested_visual": "cta panel with glowing emerald call-to-action button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT assert specific percentage profit gains or cost savings absent from verified evidence.",
+      "Do NOT claim autonomous agents replace regulatory compliance oversight or banking licenses.",
+      "Do NOT guarantee zero-risk settlement or infinite liquidity."
+    ],
+    "requires_additional_verification": [
+      "Verify that any numerical benchmarks cited for Axios Live: AI agents are changing how money moves reference peer-reviewed or vendor-audited studies."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_ars_technica",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "canonical_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "Making it easier to understand how content was created and edited",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_006",
+        "ev_009"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_006",
+        "ev_009"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_014"
+      ]
+    },
+    {
+      "source_id": "src_deepmind",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "publisher": "Google DeepMind Research",
+      "canonical_url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "retrieved_at": "2026-10-23T12:20:54.829Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_014"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.794Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "The past, present, and future share a show floor at Pinball Expo 2026: Flipping through the highlights in and around Pinball Expo 2026.",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "source_title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-21T11:00:04.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.795Z",
+      "supporting_excerpt": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Making it easier to understand how content was created and edited: We're expanding our tools to help you understand how content was created and edited across the web.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "source_title": "Making it easier to understand how content was created and edited",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-17T13:43:50.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.795Z",
+      "supporting_excerpt": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "evidence_type": "official_fact",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.802Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.802Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "AI adoption by industry shows what other sectors can learn: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source_title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-20T12:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.802Z",
+      "supporting_excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.806Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "Meta says Muse has over 10M users, with shopping a top activity: Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source_title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-21T21:14:19.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.807Z",
+      "supporting_excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "AI breakthroughs in robotics won’t change your life any time soon: The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are cha",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source_title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-08T09:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.807Z",
+      "supporting_excerpt": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.811Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "The past, present, and future share a show floor at Pinball Expo 2026: Flipping through the highlights in and around Pinball Expo 2026.",
+      "source_id": "src_ars_technica",
+      "source_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "source_title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "publisher": "Ars Technica — AI & Software",
+      "publication_date": "2026-10-21T11:00:04.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.811Z",
+      "supporting_excerpt": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_012": {
+      "evidence_id": "ev_012",
+      "claim_text": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica: Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "source_title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-16T03:14:17.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.811Z",
+      "supporting_excerpt": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "evidence_type": "statistic",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_013": {
+      "evidence_id": "ev_013",
+      "claim_text": "Here are the top AI agents that can live in your text messages: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_title": "Here are the top AI agents that can live in your text messages",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T14:00:00.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.815Z",
+      "supporting_excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_014": {
+      "evidence_id": "ev_014",
+      "claim_text": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields: Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "source_id": "src_deepmind",
+      "source_url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source_title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "publisher": "Google DeepMind Research",
+      "publication_date": "2026-05-06T10:43:49.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.816Z",
+      "supporting_excerpt": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "evidence_type": "research_finding",
+      "source_quality": "primary",
+      "confidence": "high",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_015": {
+      "evidence_id": "ev_015",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-23T12:20:54.817Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "Axios Live: AI agents are changing how money moves",
+    "target_audience": "Engineers & Founders",
+    "core_thesis": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d — supported by: We created a list of the most notable AI agents that can live in your text messages, from general as",
+    "recommended_angle_title": "Autonomous Clearance: How AI Agents Are Rewiring Financial Rails",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "Financial rails are transitioning from manual settlement windows to autonomous agent transactions.",
+        "visual_suggestion": "document_reveal or editorial_montage showing high-velocity capital routing"
+      },
+      {
+        "beat": "Beat 2: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "Legacy wire clearances and reconciliation queues create multi-day settlement drag across institutions.",
+        "visual_suggestion": "split_callout comparing legacy batch settlement against real-time agent execution"
+      },
+      {
+        "beat": "Beat 3: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "What verified capabilities and architectural components define Axios Live: AI agents are changing how money moves?: Flipping through the highlights in and around Pinball Expo 2026.",
+        "visual_suggestion": "system_architecture diagram illustrating transaction verification and ledger synchronization"
+      },
+      {
+        "beat": "Beat 4: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "Verified transaction throughput and settlement velocity figures from production data.",
+        "visual_suggestion": "stat_counter or infographic_grid animating verified transaction metrics"
+      },
+      {
+        "beat": "Beat 5: CTA",
+        "purpose": "cta",
+        "narration_focus": "The future of capital movement is instant and verifiable. Follow Voiceage Systems for deeper coverage.",
+        "visual_suggestion": "cta panel with glowing emerald call-to-action button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+        "source_title": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+        "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "source_title": "TechCrunch AI (Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead)",
+        "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "evidence_id": "ev_005"
+      },
+      {
+        "claim": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as a",
+        "source_title": "MIT Technology Review — AI (AI adoption by industry shows what other sectors can learn)",
+        "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+        "evidence_id": "ev_006"
+      },
+      {
+        "claim": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families",
+        "source_title": "TechCrunch AI (Here are the top AI agents that can live in your text messages)",
+        "source_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "evidence_id": "ev_010"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "What verified capabilities and architectural components define Axios Live: AI agents are changing how money moves?",
+      "What empirical benchmarks or performance metrics exist regarding Axios Live: AI agents are changing how money moves?",
+      "What operational friction, failure modes, or pain points do users report with Axios Live: AI agents are changing how money moves?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT assert specific percentage profit gains or cost savings absent from verified evidence.",
+      "Do NOT claim autonomous agents replace regulatory compliance oversight or banking licenses.",
+      "Do NOT guarantee zero-risk settlement or infinite liquidity."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

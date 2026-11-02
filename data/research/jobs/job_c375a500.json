@@ -1,0 +1,16 @@
+{
+  "job_id": "job_c375a500",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Coinbase Now Lets AI Agents Trade in Your Crypto Account. What Could Go Wrong?",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_110845dc",
+  "started_at": "2026-10-23T19:11:42.549Z",
+  "completed_at": "2026-10-23T19:11:42.668Z",
+  "brief_id": "brief_110845dc"
+}

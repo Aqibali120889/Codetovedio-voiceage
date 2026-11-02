@@ -1,0 +1,112 @@
+{
+  "job_id": "job_85afd66e",
+  "project_id": "proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b",
+  "created_at": "2026-10-23T07:16:00.725Z",
+  "updated_at": "2026-10-23T07:20:01.904Z",
+  "status": "failed",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_d9fb3647",
+    "script_id": "script_5f8bca82",
+    "storyboard_id": "sb_e303e35b",
+    "scene_plan_id": "The Real-World Impact of US Banks Blocking AI Agents: 5 Lenders Act [2026]: What the Evidence Shows"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T07:16:00.729Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T07:16:00.738Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T07:16:55.821Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T07:16:55.849Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T07:17:30.914Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T07:18:06.012Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T07:19:06.180Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T07:19:06.211Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-23T07:19:29.371Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-23T07:19:29.374Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-23T07:19:29.386Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-23T07:19:29.432Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-23T07:19:29.444Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "terminal_matrix",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_d9fb3647"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_4b3001c0-dfcf-42b8-966e-aa3f7fc9d22b\\subtitles\\captions.vtt"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_001 claim \"claim_001_1\" violates constraint: \"Do NOT claim US Banks Blocking AI Agents: 5 Lenders Act [2026] eliminates all human oversight requirements.\"; Scene scene_003 claim \"claim_003_1\" violates constraint: \"Do NOT claim US Banks Blocking AI Agents: 5 Lenders Act [2026] eliminates all human oversight requirements.\"; Scene scene_004 claim \"claim_004_1\" violates constraint: \"Do NOT claim US Banks Blocking AI Agents: 5 Lenders Act [2026] eliminates all human oversight requirements.\"",
+    "Diversity: Scene sequence matches recent generation \"job_1c7dc25b\". Diversity penalty applied."
+  ],
+  "error": {
+    "stage": "rendering_video",
+    "message": "Remotion render failed with exit code 1.\n\u001b[31m\u001b[41m\u001b[37m TypeError \u001b[39m\u001b[31m\u001b[49m\u001b[39m \u001b[31mCannot read properties of undefined (reading 'map')\u001b[39m\n",
+    "timestamp": "2026-10-23T07:20:01.904Z",
+    "recoverable": true
+  }
+}

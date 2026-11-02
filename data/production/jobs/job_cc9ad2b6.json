@@ -1,0 +1,117 @@
+{
+  "job_id": "job_cc9ad2b6",
+  "project_id": "proj_bd3dd7c8-ef61-4904-9da5-7db4311c6369",
+  "created_at": "2026-10-26T17:44:57.041Z",
+  "updated_at": "2026-10-26T17:44:58.598Z",
+  "status": "running",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "directing_post_production",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_22914d7d",
+    "script_id": "script_02e28029",
+    "storyboard_id": "sb_1b2813a0",
+    "scene_plan_id": "Autonomous Clearance: How AI Agents Are Rewiring Financial Rails"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-26T17:44:57.043Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-26T17:44:57.050Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-26T17:44:57.055Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-26T17:44:57.059Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-26T17:44:57.065Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-26T17:44:57.071Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-26T17:44:57.073Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-26T17:44:57.104Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-26T17:44:57.624Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-26T17:44:57.625Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-26T17:44:57.630Z"
+    },
+    "directing_post_production": {
+      "stage": "directing_post_production",
+      "completed_at": "2026-10-26T17:44:57.633Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-26T17:44:57.643Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-26T17:44:58.598Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": false,
+    "background_music": true,
+    "target_duration_seconds": 45,
+    "resume": true,
+    "resume_project_id": "proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2",
+    "brief_id": "brief_22914d7d"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\subtitles\\captions.vtt",
+    "editing_plan_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_3de29d73-46f7-45e8-ad53-8ec8fbcd43d2\\editing_plan.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_004 claim \"claim_004_1\" violates constraint: \"Do NOT claim autonomous agents replace regulatory compliance oversight or banking licenses.\"",
+    "Diversity: Reused image asset URL in scene \"scene_003\": data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3...",
+    "Diversity: Reused image asset URL in scene \"scene_008\": data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3...",
+    "Diversity: Scene sequence matches recent generation \"job_4029a023\". Diversity penalty applied."
+  ]
+}

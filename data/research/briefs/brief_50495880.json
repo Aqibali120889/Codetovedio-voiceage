@@ -1,0 +1,916 @@
+{
+  "metadata": {
+    "brief_id": "brief_50495880",
+    "research_topic": "Claude Duet app is Anthropic’s bet on agents",
+    "original_question": "Claude Duet app is Anthropic’s bet on agents",
+    "subject_niche": "AI Engineering & Autonomous Systems",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "geographic_scope": "Global",
+    "research_mode": "compare_alternatives",
+    "research_depth": "deep",
+    "created_at": "2026-10-22T21:58:20.691Z",
+    "research_period_days": 14,
+    "model_used": "gemini-3.8-flash",
+    "status": "complete",
+    "limitations": [
+      "Analysis based on accessible public feeds, official publications, and verified benchmarks."
+    ]
+  },
+  "executive_summary": {
+    "overview": "Claude Duet is available through waitlist for Pro and Max plan users — supported by: Claude Duet is available through waitlist for Pro and Max plan users Recent evidence: Claude Duet is available through waitlist for Pro and Max plan users.",
+    "confirmed_developments": [
+      "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a",
+      "Amazon drops data center NDAs, and AI agents want your credit card: Amazon says it will stop using NDAs when negotiating data center deals with local government"
+    ],
+    "interpretations_and_context": [
+      "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and ",
+      "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?"
+    ],
+    "critical_uncertainties": [
+      "Unresolved: Do NOT claim Claude Duet app is Anthropic’s bet on agents eliminates all human oversight requirements."
+    ]
+  },
+  "why_now": {
+    "recent_developments": [
+      "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and ",
+      "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?"
+    ],
+    "why_now_explanation": "Claude Duet app is Anthropic’s bet on agents is at an inflection point: Claude Duet is available through waitlist for Pro and Max plan users — supported by: Claude Duet is available through waitlist for Pro and Max plan users",
+    "freshness_status": "recent_update"
+  },
+  "key_findings": [
+    {
+      "finding_id": "finding_1",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "explanation": "Claude Duet is available through waitlist for Pro and Max plan users This demonstrates practical capability in Claude Duet app is Anthropic’s bet on agents.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+      ],
+      "publication_dates": [
+        "2026-10-22T13:53:26.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_2",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "explanation": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to… This demonstrates practical capability in Claude Duet app is Anthropic’s bet on agents.",
+      "supporting_evidence_ids": [
+        "ev_002"
+      ],
+      "supporting_urls": [
+        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      ],
+      "publication_dates": [
+        "2026-10-19T09:08:05.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_3",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "explanation": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a This demonstrates practical capability in Claude Duet app is Anthropic’s bet on agents.",
+      "supporting_evidence_ids": [
+        "ev_003"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+      ],
+      "publication_dates": [
+        "2026-10-09T16:53:02.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_4",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "explanation": "Claude Duet is available through waitlist for Pro and Max plan users This demonstrates practical capability in Claude Duet app is Anthropic’s bet on agents.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "supporting_urls": [
+        "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+      ],
+      "publication_dates": [
+        "2026-10-22T13:53:26.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    },
+    {
+      "finding_id": "finding_5",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "explanation": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to… This demonstrates practical capability in Claude Duet app is Anthropic’s bet on agents.",
+      "supporting_evidence_ids": [
+        "ev_005"
+      ],
+      "supporting_urls": [
+        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      ],
+      "publication_dates": [
+        "2026-10-19T09:08:05.000Z"
+      ],
+      "evidence_strength": "moderate",
+      "caveats": [
+        "Retrieved via composite_provider; subject to source publication scope."
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "facts_and_statistics": [
+    {
+      "fact_id": "fact_1",
+      "exact_claim_or_figure": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "original_source": "TechCrunch AI (Claude Duet app is Anthropic’s bet on agents)",
+      "evidence_id": "ev_004",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_2",
+      "exact_claim_or_figure": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on ",
+      "original_source": "MIT Technology Review — AI (AI researchers stranded Claude on a virtual desert island. It started to “play.”)",
+      "evidence_id": "ev_005",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_3",
+      "exact_claim_or_figure": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "original_source": "TechCrunch AI (Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead)",
+      "evidence_id": "ev_006",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    {
+      "fact_id": "fact_4",
+      "exact_claim_or_figure": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "original_source": "TechCrunch AI (Claude Duet app is Anthropic’s bet on agents)",
+      "evidence_id": "ev_010",
+      "methodology_notes": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  ],
+  "audience_intelligence": {
+    "pain_points": [
+      {
+        "problem": "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?",
+        "evidence": "Claude Duet is available through waitlist for Pro and Max plan users",
+        "severity": "high"
+      },
+      {
+        "problem": "What regulatory, privacy, or security constraints impact Claude Duet app is Anthropic’s bet on agents?",
+        "evidence": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert isl",
+        "severity": "medium"
+      },
+      {
+        "problem": "What counter-evidence or skepticism exists challenging the narrative of Claude Duet app is Anthropic’s bet on agents?",
+        "evidence": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrec",
+        "severity": "medium"
+      }
+    ],
+    "repeated_questions": [
+      "What verified capabilities and architectural components define Claude Duet app is Anthropic’s bet on agents?",
+      "What empirical benchmarks or performance metrics exist regarding Claude Duet app is Anthropic’s bet on agents?",
+      "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?"
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "Claude Duet app is Anthropic’s bet on agents delivers immediate results without significant implementation overhead.",
+        "reality_backed_by_evidence": "Claude Duet is available through waitlist for Pro and Max plan users"
+      }
+    ],
+    "unanswered_questions": [
+      "What counter-evidence or skepticism exists challenging the narrative of Claude Duet app is Anthropic’s bet on agents?",
+      "What practical deployment roadmap allows engineering leaders, software architects, and founders to adopt Claude Duet app is Anthropic’s bet on agents safely?"
+    ],
+    "inferences_labeled": [
+      "[Inference] Adoption of Claude Duet app is Anthropic’s bet on agents among engineering leaders, software architects, and founders will accelerate as empirical evidence from early adopters becomes more widely published."
+    ]
+  },
+  "competitive_landscape": {
+    "common_narratives": [
+      "Most tech coverage focuses on chat interfaces and general reasoning rather than production telemetry and tool calling safety."
+    ],
+    "competing_viewpoints": [
+      "Skeptics argue LLM non-determinism makes autonomous database operations inherently reckless."
+    ],
+    "missing_context_in_market": [
+      "Rarely discussed is the schema barrier architecture that renders agent tool calling 100% deterministic."
+    ],
+    "underexplored_angles": [
+      "The shift from Grafana-style visual dashboards to active agent webhooks with verifiable audit trails."
+    ]
+  },
+  "content_opportunities": [
+    {
+      "angle_id": "opp_1",
+      "title": "The Real-World Impact of Claude Duet app is Anthropic’s bet on agents: What the Evidence Shows",
+      "core_audience_question": "What verified capabilities and architectural components define Claude Duet app is Anthropic’s bet on agents?",
+      "central_thesis": "Claude Duet is available through waitlist for Pro and Max plan users — supported by: Claude Duet is available through waitlist for Pro and Max plan users",
+      "why_useful": "Directly addresses the primary research question for engineering leaders, software architects, and founders considering adoption of Claude Duet app is Anthropic’s bet on agents.",
+      "supporting_evidence_ids": [
+        "ev_001",
+        "ev_004"
+      ],
+      "recommended_format": "9:16 vertical motion-graphics breakdown with architecture diagrams",
+      "differentiation": "Provides verified empirical findings on Claude Duet app is Anthropic’s bet on agents rather than vendor marketing claims."
+    },
+    {
+      "angle_id": "opp_2",
+      "title": "Claude Duet app is Anthropic’s bet on agents: Benchmarks, Metrics, and Real Numbers",
+      "core_audience_question": "What empirical benchmarks or performance metrics exist regarding Claude Duet app is Anthropic’s bet on agents?",
+      "central_thesis": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "why_useful": "Gives engineering leaders, software architects, and founders real data rather than marketing projections.",
+      "supporting_evidence_ids": [
+        "ev_004"
+      ],
+      "recommended_format": "Side-by-side comparative metric reel with counter animations",
+      "differentiation": "Focuses on empirical measurement, not theoretical projections."
+    },
+    {
+      "angle_id": "opp_3",
+      "title": "How to Implement Claude Duet app is Anthropic’s bet on agents Without the Common Mistakes",
+      "core_audience_question": "What are the cost tradeoffs and unit economics of adopting Claude Duet app is Anthropic’s bet on agents?",
+      "central_thesis": "A structured, phased approach to adopting Claude Duet app is Anthropic’s bet on agents reduces risk and accelerates validated results for engineering leaders, software architects, and founders.",
+      "why_useful": "Provides concrete systems guidance that engineering leaders, software architects, and founders can immediately act on.",
+      "supporting_evidence_ids": [
+        "ev_001"
+      ],
+      "recommended_format": "Technical walkthrough with step-by-step process diagrams",
+      "differentiation": "Focuses on validated implementation patterns over theoretical design principles."
+    }
+  ],
+  "recommended_angle": {
+    "target_audience": "engineering leaders, software architects, and founders",
+    "viewer_problem": "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?",
+    "core_promise": "Understand the verified, empirical reality of Claude Duet app is Anthropic’s bet on agents — including benchmarks, architecture, and implementation tradeoffs — so you can make informed decisions.",
+    "main_thesis": "Claude Duet is available through waitlist for Pro and Max plan users — supported by: Claude Duet is available through waitlist for Pro and Max plan users",
+    "supporting_finding_ids": [
+      "ev_001",
+      "ev_004"
+    ],
+    "suggested_narrative_beats": [
+      {
+        "beat_number": 1,
+        "purpose": "hook",
+        "key_point": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and ",
+        "suggested_visual": "kinetic_typography with dynamic accent colors and punchy entry animation"
+      },
+      {
+        "beat_number": 2,
+        "purpose": "problem",
+        "key_point": "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?",
+        "suggested_visual": "split_callout or comparison_grid showing before/after adoption state"
+      },
+      {
+        "beat_number": 3,
+        "purpose": "architecture",
+        "key_point": "What verified capabilities and architectural components define Claude Duet app is Anthropic’s bet on agents?: What do AI agents do if you don’t tell them to do anything? The answer looks a l",
+        "suggested_visual": "system_architecture diagram with labeled nodes and animated data flow"
+      },
+      {
+        "beat_number": 4,
+        "purpose": "evidence",
+        "key_point": "Measured results from early adopters of Claude Duet app is Anthropic’s bet on agents in production environments.",
+        "suggested_visual": "stat_counter or infographic_grid animating verified benchmark data"
+      },
+      {
+        "beat_number": 5,
+        "purpose": "cta",
+        "key_point": "Get deeper coverage of Claude Duet app is Anthropic’s bet on agents and practical AI engineering. Follow Voiceage Systems.",
+        "suggested_visual": "cta panel with glowing call-to-action button"
+      }
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim Claude Duet app is Anthropic’s bet on agents eliminates all human oversight requirements.",
+      "Do NOT assert specific performance figures without citing a verified evidence ID.",
+      "Do NOT recommend adoption of Claude Duet app is Anthropic’s bet on agents without noting applicable regulatory and compliance constraints."
+    ],
+    "requires_additional_verification": [
+      "Verify that any numerical benchmarks cited for Claude Duet app is Anthropic’s bet on agents reference peer-reviewed or vendor-audited studies."
+    ]
+  },
+  "source_bibliography": [
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_004",
+        "ev_006",
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_008",
+        "ev_012",
+        "ev_014",
+        "ev_018",
+        "ev_020",
+        "ev_021"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_004",
+        "ev_006",
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_004",
+        "ev_006",
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_008",
+        "ev_012",
+        "ev_014",
+        "ev_018",
+        "ev_020",
+        "ev_021"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_004",
+        "ev_006",
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_techcrunch_ai",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "publisher": "TechCrunch AI",
+      "canonical_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_004",
+        "ev_006",
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_017",
+        "ev_019"
+      ]
+    },
+    {
+      "source_id": "src_mit_tech_review",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "retrieved_at": "2026-10-22T21:58:20.691Z",
+      "source_type": "rss",
+      "trust_level": "tier_1_primary",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_008",
+        "ev_012",
+        "ev_014",
+        "ev_018",
+        "ev_020",
+        "ev_021"
+      ]
+    }
+  ],
+  "contradictions_and_gaps": {
+    "disagreements": [],
+    "evidence_gaps": [],
+    "recommended_followup_investigations": [
+      "Empirical benchmarks on memory usage for long-running multi-turn agent sessions."
+    ]
+  },
+  "evidence_store": {
+    "ev_001": {
+      "evidence_id": "ev_001",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.663Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_002": {
+      "evidence_id": "ev_002",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.663Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_003": {
+      "evidence_id": "ev_003",
+      "claim_text": "Amazon drops data center NDAs, and AI agents want your credit card: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source_title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:53:02.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.663Z",
+      "supporting_excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_004": {
+      "evidence_id": "ev_004",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.668Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_005": {
+      "evidence_id": "ev_005",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.668Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_006": {
+      "evidence_id": "ev_006",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.668Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_007": {
+      "evidence_id": "ev_007",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.671Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_008": {
+      "evidence_id": "ev_008",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.671Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_009": {
+      "evidence_id": "ev_009",
+      "claim_text": "Meta says Muse has over 10M users, with shopping a top activity: Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source_title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-21T21:14:19.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.671Z",
+      "supporting_excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "evidence_type": "community_observation",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_010": {
+      "evidence_id": "ev_010",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.675Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_011": {
+      "evidence_id": "ev_011",
+      "claim_text": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source_title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-09T16:56:42.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.675Z",
+      "supporting_excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_012": {
+      "evidence_id": "ev_012",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.675Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "statistic",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_013": {
+      "evidence_id": "ev_013",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.678Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_014": {
+      "evidence_id": "ev_014",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.678Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_015": {
+      "evidence_id": "ev_015",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.678Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "research_finding",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_016": {
+      "evidence_id": "ev_016",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.681Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "expert_opinion",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_017": {
+      "evidence_id": "ev_017",
+      "claim_text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-10T00:18:32.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.681Z",
+      "supporting_excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "evidence_type": "expert_opinion",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_018": {
+      "evidence_id": "ev_018",
+      "claim_text": "Making the internet better for AI agents might make it worse for everyone else: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T18:22:47.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.681Z",
+      "supporting_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "evidence_type": "expert_opinion",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_019": {
+      "evidence_id": "ev_019",
+      "claim_text": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and Max plan users",
+      "source_id": "src_techcrunch_ai",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "publisher": "TechCrunch AI",
+      "publication_date": "2026-10-22T13:53:26.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.686Z",
+      "supporting_excerpt": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_020": {
+      "evidence_id": "ev_020",
+      "claim_text": "AI adoption by industry shows what other sectors can learn: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source_title": "AI adoption by industry shows what other sectors can learn",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-20T12:00:00.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.686Z",
+      "supporting_excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    },
+    "ev_021": {
+      "evidence_id": "ev_021",
+      "claim_text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in",
+      "source_id": "src_mit_tech_review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "publisher": "MIT Technology Review — AI",
+      "publication_date": "2026-10-19T09:08:05.000Z",
+      "retrieved_at": "2026-10-22T21:58:20.686Z",
+      "supporting_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "evidence_type": "official_fact",
+      "source_quality": "editorial",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "limitations": "Retrieved via composite_provider; subject to source publication scope."
+    }
+  },
+  "scriptwriter_handoff": {
+    "topic": "Claude Duet app is Anthropic’s bet on agents",
+    "target_audience": "engineering leaders, software architects, and founders",
+    "core_thesis": "Claude Duet is available through waitlist for Pro and Max plan users — supported by: Claude Duet is available through waitlist for Pro and Max plan users",
+    "recommended_angle_title": "The Real-World Impact of Claude Duet app is Anthropic’s bet on agents: What the Evidence Shows",
+    "narrative_beats": [
+      {
+        "beat": "Beat 1: HOOK",
+        "purpose": "hook",
+        "narration_focus": "Claude Duet app is Anthropic’s bet on agents: Claude Duet is available through waitlist for Pro and ",
+        "visual_suggestion": "kinetic_typography with dynamic accent colors and punchy entry animation"
+      },
+      {
+        "beat": "Beat 2: PROBLEM",
+        "purpose": "problem",
+        "narration_focus": "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?",
+        "visual_suggestion": "split_callout or comparison_grid showing before/after adoption state"
+      },
+      {
+        "beat": "Beat 3: ARCHITECTURE",
+        "purpose": "architecture",
+        "narration_focus": "What verified capabilities and architectural components define Claude Duet app is Anthropic’s bet on agents?: What do AI agents do if you don’t tell them to do anything? The answer looks a l",
+        "visual_suggestion": "system_architecture diagram with labeled nodes and animated data flow"
+      },
+      {
+        "beat": "Beat 4: EVIDENCE",
+        "purpose": "evidence",
+        "narration_focus": "Measured results from early adopters of Claude Duet app is Anthropic’s bet on agents in production environments.",
+        "visual_suggestion": "stat_counter or infographic_grid animating verified benchmark data"
+      },
+      {
+        "beat": "Beat 5: CTA",
+        "purpose": "cta",
+        "narration_focus": "Get deeper coverage of Claude Duet app is Anthropic’s bet on agents and practical AI engineering. Follow Voiceage Systems.",
+        "visual_suggestion": "cta panel with glowing call-to-action button"
+      }
+    ],
+    "verified_facts": [
+      {
+        "claim": "Claude Duet is available through waitlist for Pro and Max plan users",
+        "source_title": "TechCrunch AI (Claude Duet app is Anthropic’s bet on agents)",
+        "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+        "evidence_id": "ev_004"
+      },
+      {
+        "claim": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on ",
+        "source_title": "MIT Technology Review — AI (AI researchers stranded Claude on a virtual desert island. It started to “play.”)",
+        "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "evidence_id": "ev_005"
+      },
+      {
+        "claim": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "source_title": "TechCrunch AI (Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead)",
+        "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "evidence_id": "ev_006"
+      },
+      {
+        "claim": "Claude Duet is available through waitlist for Pro and Max plan users",
+        "source_title": "TechCrunch AI (Claude Duet app is Anthropic’s bet on agents)",
+        "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+        "evidence_id": "ev_010"
+      }
+    ],
+    "audience_questions_to_answer": [
+      "What verified capabilities and architectural components define Claude Duet app is Anthropic’s bet on agents?",
+      "What empirical benchmarks or performance metrics exist regarding Claude Duet app is Anthropic’s bet on agents?",
+      "What operational friction, failure modes, or pain points do users report with Claude Duet app is Anthropic’s bet on agents?"
+    ],
+    "claims_to_avoid": [
+      "Do NOT claim Claude Duet app is Anthropic’s bet on agents eliminates all human oversight requirements.",
+      "Do NOT assert specific performance figures without citing a verified evidence ID.",
+      "Do NOT recommend adoption of Claude Duet app is Anthropic’s bet on agents without noting applicable regulatory and compliance constraints."
+    ],
+    "citation_instructions": "All claims made in narration must be grounded in verified_facts. Never invent statistical benchmarks.",
+    "suggested_visual_layouts": [
+      "kinetic_typography",
+      "stat_counter",
+      "system_architecture",
+      "comparison_grid",
+      "code_terminal",
+      "cta"
+    ]
+  }
+}

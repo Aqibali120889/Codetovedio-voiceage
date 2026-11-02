@@ -1,0 +1,16 @@
+{
+  "job_id": "job_66a6f8fd",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Axios Live: AI agents are changing how money moves",
+    "audience": "Engineers & Founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_25577d98",
+  "started_at": "2026-10-23T12:20:09.762Z",
+  "completed_at": "2026-10-23T12:20:54.861Z",
+  "brief_id": "brief_25577d98"
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "src_deepmind",
+    "name": "Google DeepMind Research",
+    "url": "https://deepmind.google/discover/blog/",
+    "feedUrl": "https://deepmind.google/blog/rss.xml",
+    "type": "rss",
+    "categories": [
+      "ai_research",
+      "frontier_models",
+      "algorithms",
+      "robotics"
+    ],
+    "trustLevel": "tier_1_primary",
+    "enabled": true,
+    "pollingFrequencyMinutes": 60,
+    "lastFetchedAt": "2026-10-31T14:34:58.869Z",
+    "description": "Official research announcements, breakthroughs, and technical disclosures from DeepMind."
+  },
+  {
+    "id": "src_mit_tech_review",
+    "name": "MIT Technology Review — AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "feedUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "type": "rss",
+    "categories": [
+      "ai_policy",
+      "enterprise_ai",
+      "ethics",
+      "editorial"
+    ],
+    "trustLevel": "tier_2_editorial",
+    "enabled": true,
+    "pollingFrequencyMinutes": 120,
+    "lastFetchedAt": "2026-10-31T14:35:02.701Z",
+    "description": "Rigorous academic and technology journalism on societal and enterprise impacts of AI."
+  },
+  {
+    "id": "src_ars_technica",
+    "name": "Ars Technica — AI & Software",
+    "url": "https://arstechnica.com/ai/",
+    "feedUrl": "https://feeds.arstechnica.com/arstechnica/features",
+    "type": "rss",
+    "categories": [
+      "software_engineering",
+      "ai_tooling",
+      "enterprise",
+      "hardware"
+    ],
+    "trustLevel": "tier_2_editorial",
+    "enabled": true,
+    "pollingFrequencyMinutes": 120,
+    "lastFetchedAt": "2026-10-31T14:35:06.393Z",
+    "description": "In-depth engineering reviews, hardware analysis, and technical reporting."
+  },
+  {
+    "id": "src_techcrunch_ai",
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "feedUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "type": "rss",
+    "categories": [
+      "startups",
+      "venture_capital",
+      "product_launches",
+      "business_adoption"
+    ],
+    "trustLevel": "tier_2_editorial",
+    "enabled": true,
+    "pollingFrequencyMinutes": 60,
+    "lastFetchedAt": "2026-10-31T14:35:06.718Z",
+    "description": "Startup funding, product releases, enterprise software adoption, and market movements."
+  },
+  {
+    "id": "src_hackernews",
+    "name": "Hacker News — Top Discussions",
+    "url": "https://news.ycombinator.com/",
+    "feedUrl": "https://news.ycombinator.com/rss",
+    "type": "rss",
+    "categories": [
+      "developer_sentiment",
+      "community_problems",
+      "open_source",
+      "pain_points"
+    ],
+    "trustLevel": "tier_3_community",
+    "enabled": true,
+    "pollingFrequencyMinutes": 30,
+    "lastFetchedAt": "2026-10-31T14:35:08.282Z",
+    "description": "Real-world developer reactions, production debugging stories, and skepticism on new tools."
+  },
+  {
+    "id": "src_csiro_australia",
+    "name": "CSIRO Data61 & Australian AI",
+    "url": "https://data61.csiro.au/",
+    "feedUrl": "https://data61.csiro.au/en/News/RSS",
+    "type": "rss",
+    "categories": [
+      "australia_business",
+      "applied_ai",
+      "local_sme",
+      "robotics"
+    ],
+    "trustLevel": "tier_1_primary",
+    "enabled": true,
+    "pollingFrequencyMinutes": 240,
+    "lastFetchedAt": "2026-10-31T14:35:20.891Z",
+    "geographicFocus": "Australia",
+    "description": "National Australian scientific research organization reports on industry and SME AI adoption."
+  }
+]

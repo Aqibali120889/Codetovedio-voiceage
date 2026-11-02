@@ -1,0 +1,23 @@
+{
+  "id": "default_voiceage",
+  "name": "Voiceage Systems Official",
+  "colors": {
+    "primary": "#FF5F00",
+    "secondary": "#0EA5E9",
+    "accent": "#00C853",
+    "background": "#0B0B0B",
+    "text_primary": "#F3F4F6",
+    "text_secondary": "#9CA3AF"
+  },
+  "typography": {
+    "font_heading": "Inter",
+    "font_body": "Inter",
+    "font_code": "JetBrains Mono"
+  },
+  "theme_preset": "cyberpunk_dark",
+  "watermark_text": "VOICEAGE SYSTEMS",
+  "intro_title": "VOICEAGE SYSTEMS",
+  "outro_cta": "Follow Voiceage Systems for practical AI engineering.",
+  "safe_area_padding": 48,
+  "aspect_ratio": "9:16"
+}

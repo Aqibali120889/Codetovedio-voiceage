@@ -1,0 +1,102 @@
+{
+  "job_id": "job_1ecdcc21",
+  "project_id": "proj_b3820ee5-a730-43aa-906e-19307094e56a",
+  "created_at": "2026-10-23T15:18:38.131Z",
+  "updated_at": "2026-10-23T15:18:52.936Z",
+  "status": "completed",
+  "current_stage": "completed",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "completed"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_c8770913",
+    "script_id": "script_a4d7f8a0",
+    "storyboard_id": "sb_8d1f8b12",
+    "scene_plan_id": "Why AI Agents Are Replacing Static Dashboards"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T15:18:38.134Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T15:18:38.151Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T15:18:38.163Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T15:18:38.169Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T15:18:38.189Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T15:18:38.215Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T15:18:38.240Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T15:18:38.256Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-23T15:18:52.912Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-23T15:18:52.914Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-23T15:18:52.918Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-23T15:18:52.931Z"
+    }
+  },
+  "config": {
+    "skip_render": true,
+    "force_deterministic": true,
+    "force_mock_audio": true,
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "target_duration_seconds": 25,
+    "brief_id": "brief_c8770913"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_b3820ee5-a730-43aa-906e-19307094e56a\\subtitles\\captions.vtt"
+  },
+  "warnings": [
+    "Diversity: Scene sequence matches recent generation \"job_37df19c7\". Diversity penalty applied."
+  ]
+}

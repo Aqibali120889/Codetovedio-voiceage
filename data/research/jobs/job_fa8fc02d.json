@@ -1,0 +1,14 @@
+{
+  "job_id": "job_fa8fc02d",
+  "request": {
+    "mode": "compare_alternatives",
+    "topic": "Here are the top AI agents that can live in your text messages",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-26T13:58:03.503Z"
+}

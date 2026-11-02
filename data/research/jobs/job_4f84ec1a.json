@@ -1,0 +1,16 @@
+{
+  "job_id": "job_4f84ec1a",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "I Built a 3D Office Where Local AI Agents Share One RTX 4090",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_fcadc104",
+  "started_at": "2026-10-23T08:52:17.226Z",
+  "completed_at": "2026-10-23T08:53:02.273Z",
+  "brief_id": "brief_fcadc104"
+}

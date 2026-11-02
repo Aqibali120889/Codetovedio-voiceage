@@ -1,0 +1,16 @@
+{
+  "job_id": "job_2ded1936",
+  "request": {
+    "mode": "compare_alternatives",
+    "topic": "Claude Duet app is Anthropic’s bet on agents",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "deep"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_50495880",
+  "started_at": "2026-10-22T21:57:35.647Z",
+  "completed_at": "2026-10-22T21:58:20.695Z",
+  "brief_id": "brief_50495880"
+}

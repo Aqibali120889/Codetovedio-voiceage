@@ -1,0 +1,100 @@
+{
+  "job_id": "job_c0c5cdc0",
+  "project_id": "proj_df2bfe06-a9ac-457f-b185-30540ba11459",
+  "created_at": "2026-10-12T12:24:57.202Z",
+  "updated_at": "2026-10-12T13:50:44.927Z",
+  "status": "completed",
+  "current_stage": "completed",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video",
+    "validating_render",
+    "completed"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_c8770913",
+    "script_id": "script_a46b00a8",
+    "scene_plan_id": "Why AI Agents Are Replacing Static Dashboards",
+    "render_id": "final.mp4"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-12T12:24:57.217Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-12T12:24:57.232Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-12T12:24:57.243Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-12T12:24:57.244Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-12T12:24:57.264Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-12T12:24:57.272Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-12T12:25:28.766Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-12T12:25:28.773Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-12T12:25:28.786Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-12T12:25:28.788Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-12T12:25:28.835Z"
+    },
+    "validating_render": {
+      "stage": "validating_render",
+      "completed_at": "2026-10-12T13:50:38.418Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": true,
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "brief_id": "brief_c8770913"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\script.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\subtitles\\captions.vtt",
+    "render_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\render\\final.mp4",
+    "quality_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_df2bfe06-a9ac-457f-b185-30540ba11459\\render\\quality_report.json"
+  },
+  "warnings": []
+}

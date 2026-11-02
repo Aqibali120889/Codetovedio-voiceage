@@ -1,0 +1,106 @@
+{
+  "job_id": "job_91df37da",
+  "project_id": "proj_7708d251-6b68-4ea7-badf-0e074bda81b8",
+  "created_at": "2026-10-23T15:42:52.709Z",
+  "updated_at": "2026-10-23T15:43:20.372Z",
+  "status": "running",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_22914d7d",
+    "script_id": "script_67ac068e",
+    "storyboard_id": "sb_61fbc425",
+    "scene_plan_id": "Autonomous Clearance: How AI Agents Are Rewiring Financial Rails"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-23T15:42:52.718Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-23T15:43:01.783Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-23T15:43:01.793Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-23T15:43:01.796Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-23T15:43:01.807Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-23T15:43:01.825Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-23T15:43:01.882Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-23T15:43:01.912Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-23T15:43:19.295Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-23T15:43:19.300Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-23T15:43:19.309Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-23T15:43:19.329Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-23T15:43:20.372Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": false,
+    "background_music": true,
+    "target_duration_seconds": 30,
+    "topic": "AI agents are changing how money moves"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_7708d251-6b68-4ea7-badf-0e074bda81b8\\subtitles\\captions.vtt"
+  },
+  "warnings": [
+    "Diversity: Scene sequence matches recent generation \"job_76b5b677\". Diversity penalty applied."
+  ]
+}

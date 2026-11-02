@@ -1,0 +1,16 @@
+{
+  "job_id": "job_0a1d7c2e",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_b4908c78",
+  "started_at": "2026-10-27T19:22:59.988Z",
+  "completed_at": "2026-10-27T19:23:00.351Z",
+  "brief_id": "brief_b4908c78"
+}

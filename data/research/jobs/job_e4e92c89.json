@@ -1,0 +1,14 @@
+{
+  "job_id": "job_e4e92c89",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Autonomous AI Agents in Production Telemetry",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "in_progress",
+  "stage": "planning",
+  "progressPercent": 10,
+  "message": "Formulating bounded research plan and subquestions...",
+  "started_at": "2026-10-11T19:59:30.905Z"
+}

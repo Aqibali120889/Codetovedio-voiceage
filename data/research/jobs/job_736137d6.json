@@ -1,0 +1,16 @@
+{
+  "job_id": "job_736137d6",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Spotify’s current AI bet is about being the music service that agents choose",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_beb41b9d",
+  "started_at": "2026-10-22T15:09:38.833Z",
+  "completed_at": "2026-10-22T15:10:08.896Z",
+  "brief_id": "brief_beb41b9d"
+}

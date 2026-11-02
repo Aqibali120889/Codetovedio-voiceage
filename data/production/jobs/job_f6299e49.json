@@ -1,0 +1,111 @@
+{
+  "job_id": "job_f6299e49",
+  "project_id": "proj_50bbd7d9-3190-4890-97a5-d934636d2324",
+  "created_at": "2026-10-22T16:44:08.747Z",
+  "updated_at": "2026-10-22T16:47:06.867Z",
+  "status": "failed",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_6c4b1587",
+    "script_id": "script_705a5286",
+    "storyboard_id": "sb_a0f92499",
+    "scene_plan_id": "ESP-Mosaico: Autonomous AI Agents Replace Static Dashboards"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-22T16:44:08.756Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-22T16:44:08.770Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-22T16:44:38.311Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-22T16:44:38.316Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-22T16:44:38.321Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-22T16:45:13.343Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-22T16:45:40.281Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-22T16:45:40.291Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-22T16:46:15.111Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-22T16:46:15.113Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-22T16:46:15.116Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-22T16:46:16.156Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-22T16:46:16.159Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "editorial_slate",
+    "background_music": false,
+    "target_duration_seconds": 45,
+    "skip_render": false,
+    "brief_id": "brief_6c4b1587"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_50bbd7d9-3190-4890-97a5-d934636d2324\\subtitles\\captions.vtt"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_003 claim \"claim_003\" violates constraint: \"Do NOT advise deploying agents without human escalation paths.\""
+  ],
+  "error": {
+    "stage": "rendering_video",
+    "message": "Remotion render failed with exit code 1.\n\u001b[31m\u001b[41m\u001b[37m TypeError \u001b[39m\u001b[31m\u001b[49m\u001b[39m \u001b[31mCannot read properties of undefined (reading 'title')\u001b[39m\n",
+    "timestamp": "2026-10-22T16:47:06.867Z",
+    "recoverable": true
+  }
+}

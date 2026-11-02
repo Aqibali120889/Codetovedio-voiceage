@@ -6,26 +6,40 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@google/genai": "^2.28.0",
     "@remotion/cli": "4.0.477",
+    "@remotion/tailwind-v4": "4.0.477",
+    "culori": "^4.0.2",
+    "dotenv": "^16.4.7",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.477",
-    "@remotion/tailwind-v4": "4.0.477",
-    "tailwindcss": "4.0.0"
+    "remotion-bits": "^0.2.1",
+    "tailwindcss": "4.0.0",
+    "uuid": "^14.0.3",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.477",
+    "@types/node": "^22.0.0",
     "@types/react": "19.2.7",
     "@types/web": "0.0.166",
     "eslint": "9.19.0",
     "prettier": "3.8.1",
+    "ts-node": "^10.9.2",
     "typescript": "5.9.3"
   },
   "scripts": {
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "test": "node --require dotenv/config --require ts-node/register src/test-runner.ts",
+    "produce": "node --require dotenv/config --require ts-node/register src/production/cli.ts",
+    "research": "node --require dotenv/config --require ts-node/register src/research/cli.ts",
+    "research:server": "node --require dotenv/config --require ts-node/register src/research/cli.ts --mode serve",
+    "studio": "node --require dotenv/config --require ts-node/register src/research/cli.ts --mode serve",
+    "generate": "node --require dotenv/config --require ts-node/register src/pipeline/cli.ts",
+    "render": "npx remotion render"
   },
   "sideEffects": [
     "*.css"

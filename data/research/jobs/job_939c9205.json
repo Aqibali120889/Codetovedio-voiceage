@@ -1,0 +1,16 @@
+{
+  "job_id": "job_939c9205",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Quantum Computing: Superconducting Transmons and Cryogenic Phase Coherence",
+    "audience": "Engineers & Founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_9c6ef5b4",
+  "started_at": "2026-10-28T18:41:14.657Z",
+  "completed_at": "2026-10-28T18:41:59.722Z",
+  "brief_id": "brief_9c6ef5b4"
+}

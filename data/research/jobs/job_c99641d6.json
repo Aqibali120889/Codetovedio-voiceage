@@ -1,0 +1,16 @@
+{
+  "job_id": "job_c99641d6",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Xopero buys Vigil Guard to boost AI threat monitoring",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_d5b0249c",
+  "started_at": "2026-10-12T16:58:44.117Z",
+  "completed_at": "2026-10-12T16:59:04.898Z",
+  "brief_id": "brief_d5b0249c"
+}

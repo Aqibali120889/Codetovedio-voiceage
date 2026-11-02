@@ -1,0 +1,116 @@
+{
+  "job_id": "job_7a44aa4d",
+  "project_id": "proj_566a163c-fc33-4874-adb2-a74025d6c237",
+  "created_at": "2026-10-27T18:19:46.044Z",
+  "updated_at": "2026-10-27T18:19:48.466Z",
+  "status": "running",
+  "current_stage": "rendering_video",
+  "completed_stages": [
+    "loading_research",
+    "generating_script",
+    "validating_script",
+    "validating_editorial",
+    "planning_storyboard",
+    "planning_scenes",
+    "validating_scene_plan",
+    "generating_narration",
+    "measuring_audio",
+    "generating_captions",
+    "preparing_visual_assets",
+    "directing_post_production",
+    "assembling_composition",
+    "rendering_video"
+  ],
+  "lineage": {
+    "research_brief_id": "brief_d4d23b99",
+    "script_id": "script_8f6245f4",
+    "storyboard_id": "sb_53a3653b",
+    "scene_plan_id": "Dynamic Fleet Optimization: How AI Agents Solve Route Congestion"
+  },
+  "checkpoints": {
+    "loading_research": {
+      "stage": "loading_research",
+      "completed_at": "2026-10-27T18:19:46.047Z"
+    },
+    "generating_script": {
+      "stage": "generating_script",
+      "completed_at": "2026-10-27T18:19:46.061Z"
+    },
+    "validating_script": {
+      "stage": "validating_script",
+      "completed_at": "2026-10-27T18:19:46.065Z"
+    },
+    "validating_editorial": {
+      "stage": "validating_editorial",
+      "completed_at": "2026-10-27T18:19:46.068Z"
+    },
+    "planning_storyboard": {
+      "stage": "planning_storyboard",
+      "completed_at": "2026-10-27T18:19:46.076Z"
+    },
+    "planning_scenes": {
+      "stage": "planning_scenes",
+      "completed_at": "2026-10-27T18:19:46.081Z"
+    },
+    "validating_scene_plan": {
+      "stage": "validating_scene_plan",
+      "completed_at": "2026-10-27T18:19:46.083Z"
+    },
+    "generating_narration": {
+      "stage": "generating_narration",
+      "completed_at": "2026-10-27T18:19:46.108Z"
+    },
+    "measuring_audio": {
+      "stage": "measuring_audio",
+      "completed_at": "2026-10-27T18:19:46.904Z"
+    },
+    "generating_captions": {
+      "stage": "generating_captions",
+      "completed_at": "2026-10-27T18:19:46.907Z"
+    },
+    "preparing_visual_assets": {
+      "stage": "preparing_visual_assets",
+      "completed_at": "2026-10-27T18:19:46.910Z"
+    },
+    "directing_post_production": {
+      "stage": "directing_post_production",
+      "completed_at": "2026-10-27T18:19:46.912Z"
+    },
+    "assembling_composition": {
+      "stage": "assembling_composition",
+      "completed_at": "2026-10-27T18:19:46.921Z"
+    },
+    "rendering_video": {
+      "stage": "rendering_video",
+      "completed_at": "2026-10-27T18:19:48.466Z"
+    }
+  },
+  "config": {
+    "aspect_ratio": "9:16",
+    "theme_preset": "cyber_editorial",
+    "skip_render": false,
+    "force_deterministic": false,
+    "background_music": true,
+    "target_duration_seconds": 45,
+    "resume": true,
+    "resume_project_id": "proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2",
+    "topic": "The Real-World Impact of AI Agents in Route Optimization"
+  },
+  "artifacts": {
+    "brief_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\research_brief.json",
+    "script_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\script.json",
+    "editorial_report_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\editorial_report.json",
+    "storyboard_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\storyboard.json",
+    "blueprint_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\blueprint.json",
+    "narration_dir": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\narration",
+    "narration_audio_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\narration\\full_narration.wav",
+    "srt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\subtitles\\captions.srt",
+    "vtt_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\subtitles\\captions.vtt",
+    "editing_plan_path": "D:\\Botprism\\Voiceage\\posts\\Version 2 posts\\server\\data\\projects\\proj_d02e1aed-6c61-42f9-8685-4a850a6fb0a2\\editing_plan.json"
+  },
+  "warnings": [
+    "Script claim warnings: Scene scene_004 claim \"claim_004_1\" violates constraint: \"Do NOT claim autonomous routing agents eliminate all driver labor or regulatory compliance requirements.\"",
+    "Diversity: Reused image asset URL in scene \"scene_008\": data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3...",
+    "Diversity: Scene sequence matches recent generation \"job_1d244ca7\". Diversity penalty applied."
+  ]
+}

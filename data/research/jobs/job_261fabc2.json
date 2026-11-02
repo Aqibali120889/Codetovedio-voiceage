@@ -1,0 +1,16 @@
+{
+  "job_id": "job_261fabc2",
+  "request": {
+    "mode": "compare_alternatives",
+    "topic": "Here are the top AI agents that can live in your text messages",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_aa95fcfa",
+  "started_at": "2026-10-26T13:58:03.509Z",
+  "completed_at": "2026-10-26T13:58:03.588Z",
+  "brief_id": "brief_aa95fcfa"
+}

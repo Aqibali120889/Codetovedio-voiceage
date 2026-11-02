@@ -1,0 +1,16 @@
+{
+  "job_id": "job_7650bf43",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "Wyndham Courts AI Booking Agents in Push for Direct Bookings",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_39e26d1a",
+  "started_at": "2026-10-22T20:27:31.602Z",
+  "completed_at": "2026-10-22T20:28:16.911Z",
+  "brief_id": "brief_39e26d1a"
+}

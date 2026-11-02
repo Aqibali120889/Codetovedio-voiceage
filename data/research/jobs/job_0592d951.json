@@ -1,0 +1,14 @@
+{
+  "job_id": "job_0592d951",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "AI agents are changing how money moves",
+    "audience": "Engineers & Founders",
+    "depth": "standard"
+  },
+  "status": "in_progress",
+  "stage": "retrieving_evidence",
+  "progressPercent": 45,
+  "message": "Retrieving document texts and extracting verbatim evidence...",
+  "started_at": "2026-10-23T15:54:54.688Z"
+}

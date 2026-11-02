@@ -1,0 +1,16 @@
+{
+  "job_id": "job_b8256ba6",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "AI agents are acting like rogues and causing a huge headache for US banks",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "completed",
+  "stage": "completed",
+  "progressPercent": 100,
+  "message": "Research complete. Brief generated: brief_7d525bbd",
+  "started_at": "2026-10-22T22:56:57.058Z",
+  "completed_at": "2026-10-22T22:57:33.968Z",
+  "brief_id": "brief_7d525bbd"
+}

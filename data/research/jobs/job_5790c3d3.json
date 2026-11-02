@@ -1,0 +1,14 @@
+{
+  "job_id": "job_5790c3d3",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "OpenAI Acquires Orchestra Bio to Expand AI Agents for Drug Development",
+    "audience": "engineering leaders, software architects, and founders",
+    "depth": "standard"
+  },
+  "status": "queued",
+  "stage": "queued",
+  "progressPercent": 0,
+  "message": "Job queued for execution",
+  "started_at": "2026-10-22T15:19:22.431Z"
+}

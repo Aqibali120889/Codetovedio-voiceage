@@ -1,0 +1,14 @@
+{
+  "job_id": "job_9257a0e6",
+  "request": {
+    "mode": "topic_deep_dive",
+    "topic": "How AI Voice Agents Are Changing Customer Service",
+    "audience": "Australian small business founders",
+    "depth": "quick"
+  },
+  "status": "in_progress",
+  "stage": "planning",
+  "progressPercent": 10,
+  "message": "Formulating bounded research plan and subquestions...",
+  "started_at": "2026-10-12T11:01:11.579Z"
+}
